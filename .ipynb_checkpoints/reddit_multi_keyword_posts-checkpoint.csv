@@ -1,0 +1,1810 @@
+subreddit,keyword,title,selftext,url,permalink,score,num_comments,created_utc,author,top_comments
+Forex,oanda,Have entered a long position on NZDCHF,,https://i.redd.it/41hp7vpkxsue1.jpeg,https://www.reddit.com/r/Forex/comments/1jyyrs8/have_entered_a_long_position_on_nzdchf/,0,2,2025-04-14 13:23:39,Ausbel12,UPDATE.  Closed a few minutes ago wrong 0.47980 as CHF has regained some strength. Better luck next time
+Forex,oanda,My Personal Best,"Sorry if the text of this post doesn't really make sense but I just wanted to post because This moment has been a long time coming. I have 'finally' (i know some people don't ever see this amount of money in the markets) made 1k in a single trade and a single day (24 hours because technically i opened the trade last night). after losing several thousands of dollars over more than half a decade between shitty courses, funded account challenges, and personal trading account loses, I can finally say I have achieved 'The Big One'. To some of you this may seem like peanuts, to others it may be a life changing amount of money, but to me it is proof. Everyone in my life that I have told about my trading has doubted me and said I was making a mistake. While this may be just another trade to some this is about finally overcoming a milestone for me. 
+
+  
+With this trade I have been able to prove to myself that trading is a viable option for my future. I know that some of you will say that I am making a mistake by going down this route and that's ok. I am not a full time trader, Calling myself a part time trader might even be a little bit of an overstatement. I have a full time job and a Girlfriend so obviously I am not able to commit as much time as others to this endeavor but this is still a milestone mark for me. this trade is what proved to MYSELF that I am able to do this full time in the future. 
+
+  
+If you are able to read a tradingview chart you understand what happened but if not let me explain. I entered a trade for a GBPUSD buy on Monday night (EST) and it ended up in profit but I had moved my SL into profit and I got stopped out a little over 30 pips in profit, but I knew that there was more upward movement coming so I reentered the trade. Maintaining the confidence I had in my original position is what led to this big trade (currently \~250 pips in profit). Sorry for the long winded message, this is more for me than anything but if you have any thoughts, comments, or concerns please don't hesitate to let me know.",https://i.redd.it/3l7smtuow3ue1.png,https://www.reddit.com/r/Forex/comments/1jwehdf/my_personal_best/,7,3,2025-04-11 01:38:59,peopleeater23,"Congratulations on this achievment! 
+
+BUT, as i'm sure you know... a single trade does not matter... Sure, you made money.. but if you're losing it over the next few trades, it means nothing.
+
+What matters is the outcome of 100 or 1000 trades combined.
+
+Please update us at the end of the year i really hope you're consistent at execution and at managing risk.
+
+That will be a very good post!
+
+good job and keep at it, can't wait for more updates.
+
+So how did u caught up this big trade ? is it S/R?  I m usually afraid of long trades especially nowadays. and tyy"
+Forex,oanda,Progress towards Prop Firm Challenge,"So I've been trading awhile on my algo on Oanda live with my own money, which has been successful, but my boss (who also trades forex) suggested I do a prop firm challenge since if I can get funded, then I'll be able to make a higher return faster. I trade strictly by algo, but he trades manually, but I was able to create an indicator for him that helped with his strategy that got him funded this past week.
+
+Me, I blew up 3 free demo accounts with the prop firm last week, just figuring out their broker's api plus the tariff nonsense. I'm happy to say that this week I've managed to stay profitable every single day without even going close to the DD limit after I made some adaptations to my risk management logic.
+
+Anyway, I attached a pic of my equity curve you can see on the 100k demo account. If you have any questions, I'll do my best to answer.
+
+Some changes I made:
+
+\* Dropped my nominal volume to $400.00 per position
+
+\* Set my TP on entry based on the entry price (see if i can get a quick nab), wait 30s, then set TP based on DCA price
+
+\* Block USDZAR, USDTHB from trading
+
+\* Trust my algo, never prune winners or losers early
+
+  
+\*\*Disclaimer\*\*:
+
+Not trying to sell an algo or advertise or anything, mostly just wanted to share my progress towards my goal of a funded account and to encourage people to not give up. Takes a lot of retooling to stay within prop firm rules while also staying realistically profitable! I feel proud with the progress I've had and I'll update you guys once I buy a challenge.",https://i.redd.it/w4xqtb81ayte1.png,https://www.reddit.com/r/Forex/comments/1jvrcng/progress_towards_prop_firm_challenge/,5,19,2025-04-10 06:29:32,Fold-Plastic,"It appears this thread is about Prop Firms and Scouting Programs. [**A detailed overview and comparison of popular forex prop firms can be found here.**](https://volatility.red/Trader_Scouting_and_Prop_Firms_Overview_and_Comparison)      
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Forex) if you have any questions or concerns.*
+
+I find this incredibly neat upward trend highly unbelievable.
+
+can't edit the op for some reason, but rereading the sub rules I'll give a little more detail.
+
+should be obvious but this is a scalping algo trading 15 usd pairs on the 10 min. $400 nominal volume per entry, TP 0.02%. normally fills a smidge over the tp price and $3-4 per win after fees.
+
+I don't have numbers on trades per day but it's something like 50-100.
+
+How is the risk managed?
+
+First of all congratulations bro u are in top 5 percent and second of all tell me the setup😭"
+Forex,oanda,I caught this masterpiece entry on Gold. 1.5% return.,"Reasoning: Gold has been extremely bullish these past few months. Every time it settles on a new All Time High it has a slight pattern of retracing into a weekly FVG b4 reversing back upward and making a new All Time High. Price was overall bullish on the weekly but was retracing and with a simple look at the chart I already had a damn good idea where price wanted to go which was the most recent weekly FVG and also the only FVG within that bullish extension, so I wanted to enter in there. I watched as price slowly targetted the weekly FVG and the asian session eventually tapped into it, but I still waited. Off the power of 3 rule I naturally assumed that another session(presumably the new york session) would sweep back the old asian session low and give me deeper contact in the weekly FVG. I waited to the next day and the New York session gave me exactly just that. I entered off a 15 minute break of structure and targetted previous session highs. I set my stop below the weekly FVG and my Take profit at a past London high. I risked 1.5% to gain 1.5% roughly. I then waited around a day and half for my Take profit to get hit. I basically betted that I was catching Gold in its rebalancing/pullback act. All on demo btw to be clear. Just experimenting.",https://i.redd.it/3x4w6usjxste1.jpeg,https://www.reddit.com/r/Forex/comments/1jv4hv9/i_caught_this_masterpiece_entry_on_gold_15_return/,17,1,2025-04-09 12:25:11,Hour_Ant323,Genuinly could have held this position from anywhere to a few weeks to a few months as long as Gold kept rising.
+Forex,oanda,OB Strategy can't be a main one?,"Hi guys, I am still relatively new to trading I guess, so please forgive me for any mistakes here and there. 
+
+Starting off with the topic then:   
+My main strategy for entering any position is through Order Block zones, I draw them only when I consider them valid i.e. BOS, Inefficiency/FVG, (I still need to incorporate Breaker Blocks, but for now normal OB are fine).  
+
+
+Entries are variable but for the sake of this post let's say as soon as price hits OB, enter trade, with SL a few pips above OB, TP is 3R/4R depending on the market. 
+
+I do not expect this to be a bullet proof strategy but there are times where market will not respect these key zones over and over again, making it an absolute bloodbath. 
+
+  
+What other confluence should I consider? or should I just ditch this completely?
+
+  
+Image: 
+
+90% of the OB are on the 5 minutes time frame with 1/2 on the 15 minute. 
+
+the **RED** indicate failed OB.
+
+the **GREEN** indicate respected OB.
+
+the **GREY** indicate price did not tap in the zone. 
+
+the **Purple**, ignore it.
+
+",https://www.reddit.com/gallery/1jupay8,https://www.reddit.com/r/Forex/comments/1jupay8/ob_strategy_cant_be_a_main_one/,6,8,2025-04-08 21:36:45,C0untingNightmares,"You are disappearing down a rabbit hole. A very colourful one, but nonetheless. If you get half those words out of your vocabulary you will do better. The idea of understanding where people have set their stops/orders is not bad, this FVG and all those other made up terms are meaningless. individual candles have no meaning, since their appearance would completely change if they were offset by 50%, while the price movement would be exactly the same.
+
+A strategy can only ""work"" once you apply money management rules. Otherwise you're just doing a bunch of nothing. Gambling perhaps.
+
+So your saying price action is bullshit?
+
+Single candle stuff, yes
+
+Ahaa so how do you trade?"
+Forex,oanda,80+ pips on AUDJPY. Now if only CHFCAD didn't betray (joke) me.,,https://www.reddit.com/gallery/1jujptv,https://www.reddit.com/r/Forex/comments/1jujptv/80_pips_on_audjpy_now_if_only_chfcad_didnt_betray/,3,2,2025-04-08 17:46:13,Ausbel12,"You win some, you lose some. GG :)
+
+That's right"
+Forex,oanda,AUD/CAD - A short setup?,"Big leg down and a constructive throwback. More like wedging action. Low risk trade to the downside in my opinion. 
+
+Expectation breaker if 0.856 is broken. That's where I might add into my position. ",https://i.redd.it/uzgur64t9mte1.jpeg,https://www.reddit.com/r/Forex/comments/1jue5f4/audcad_a_short_setup/,4,0,2025-04-08 13:55:35,NewAlCapone,
+Forex,oanda,Do limit orders save you slippage/commissions in exchanges like Oanda?,"I know in coinbase there is an incentive to use limit orders as you save a lot in commissions. Is there something similar in Oanda, using limit orders instead of stop orders? I'm not too familiar with the orders mechanics.",https://www.reddit.com/r/Forex/comments/1jq42j1/do_limit_orders_save_you_slippagecommissions_in/,https://www.reddit.com/r/Forex/comments/1jq42j1/do_limit_orders_save_you_slippagecommissions_in/,2,1,2025-04-03 00:08:56,Royal-Requirement129,"Limit orders save you from slippage. As for commissions, you have to check your broker's conditions, but since you are trading with a market maker, I doubt they offer any discounts for limit orders."
+Forex,oanda,Slippage in FTMO?,How different are the charts on FTMO ctrader and charts of for example USDJPY on Oanda Trading view? I am wondering if my stoplosses would get hit more often due to slippage,https://www.reddit.com/r/Forex/comments/1jpstv0/slippage_in_ftmo/,https://www.reddit.com/r/Forex/comments/1jpstv0/slippage_in_ftmo/,2,3,2025-04-02 16:26:06,jychung0709,"It appears this thread is about Prop Firms and Scouting Programs. [**A detailed overview and comparison of popular forex prop firms can be found here.**](https://volatility.red/Trader_Scouting_and_Prop_Firms_Overview_and_Comparison)      
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Forex) if you have any questions or concerns.*
+
+Compared to other prop firms, the slippage is decent
+
+If on Oanda the price comes very close to my stop (2 pips apart) will I get stopped on FTMO?"
+Forex,oanda,Caught a short on CHFJPY,,https://www.reddit.com/gallery/1jovnqt,https://www.reddit.com/r/Forex/comments/1jovnqt/caught_a_short_on_chfjpy/,23,6,2025-04-01 13:31:58,Ausbel12,"Hi man, congrats for the tp, i have a question about, what is your winrate? i never seen a profitable 1:1 RR in long term, thats why im curious about it
+
+Why short JPY it’s one of the strongest currencies at the moment?
+
+60% I try to be above 50% to sustain a 1-1 RR
+
+Exactly, that's why I shorted CHFJPY as JPY is currently strong. Did you read my post
+
+My bad … well done …"
+Forex,oanda,OANDA vs IBKR,Why is OANDA more popular then IBKR when it comes to forex trading? IBKR is offering much better spreads,https://www.reddit.com/gallery/1jo4fzq,https://www.reddit.com/r/Forex/comments/1jo4fzq/oanda_vs_ibkr/,3,4,2025-03-31 14:25:49,carlos11111111112,"Oanda sucks af i feel u as someone who tried their prop firm challenge... I think it's the marketing? Oanda comes off as a more well known brand and something you'd see often (tradingview, etc.) so it attracts beginners. Only actual long term traders would know about few gems like IBKR.
+
+Yea I’d say that’s a huge selling point if you’re on really short duration trades. If you’re a swinger than a few pips aren’t gunna kill the move.
+
+both suck for leverage-CFD, unless you are from the USA
+
+true, but 2 pips draw down from the get go on multiple lots vs basically 0 drawdown is still a difference :)"
+Forex,oanda,"EID Mubarak Guys.I think Gold might continue the up trend without retracing, bt I'm expecting the price to retrace grab the Liquidity & fill in the FVG thus making previous Resistance Support, that will be a strong Buy with more than 3 confirmation. What do U guys think?
+Technical Analysis",,https://www.reddit.com/gallery/1jn409m,https://www.reddit.com/r/Forex/comments/1jn409m/eid_mubarak_guysi_think_gold_might_continue_the/,14,5,2025-03-30 03:42:51,Rare_Sleep4716,"Trading gold on OANDA is HARAM.  
+  
+They have Daily interest payments to fund your position as well as borrowing (leverage) and swaps (Riba).
+
+Don't 'eid mubarak' anyone.
+
+I like this setup. Break the high low , then wait for a lower low. If that happens, we’ve got ourselves a nice bullish opportunity.
+
+Don't tell the OP what to do 🤣
+
+Buddy, you have no data to suggest it will go higher than 3085. You can only be confident with zone setups like these that price will return to a level it has reached before. You setting some arbitrary R:R level assumes you know how the market will play out, which you can’t. Your SL is way too tight, too. What if it closes above your zone for a few candles then briefly dips below SL? Trading gold that would be a big L. If I were you, unless I have real data showing me otherwise, I’d set TP to 3085 and get rid of your SL (if you’re even using one)
+
+Most of the time brokers take an Admin fee instead of swaps (interest) on Islamic accounts. But that admin fee tends to be very similar in price price to swaps (from what I’ve seen) 😂
+
+Brokers don’t care, they’re in the business of maximising profits not helping people adhere to their religions. Sadly"
+Forex,oanda,Entered a long on EURJPY.,,https://i.redd.it/54hy9oe9o1re1.jpeg,https://www.reddit.com/r/Forex/comments/1jkd4wl/entered_a_long_on_eurjpy/,5,18,2025-03-26 14:30:55,Ausbel12,"Any reason for the entry? Looks like right at the top by some resistance
+
+I am on the opposite :X
+
+You didn't give your analysis at all...
+
+This aged very bad.
+That's why only price action isnt enough.
+
+📈🎯🎯"
+Forex,oanda,UPDATE: It's an L.,,https://www.reddit.com/gallery/1jk6yda,https://www.reddit.com/r/Forex/comments/1jk6yda/update_its_an_l/,7,12,2025-03-26 08:25:04,Ausbel12,"Why did you go long at what looks like an area of resistance?
+
+You live and you learn.
+
+Went longs on USDJPY and got stopped out on that too XD 🤝🥶🫠
+
+nice pick but wrong timing
+
+[big oof, seemed rather obv to me](https://ibb.co/zhCqm5QP)"
+Forex,oanda,Just went long on EURJPY,,https://i.redd.it/7al0wys64zqe1.jpeg,https://www.reddit.com/r/Forex/comments/1jk4zcr/just_went_long_on_eurjpy/,6,0,2025-03-26 05:54:51,Ausbel12,
+Forex,oanda,UPDATE: TP hit after six hours ( survived multiple SL kissing ),,https://www.reddit.com/gallery/1jjjixh,https://www.reddit.com/r/Forex/comments/1jjjixh/update_tp_hit_after_six_hours_survived_multiple/,55,24,2025-03-25 13:36:49,Ausbel12,"That was close 😬
+
+Fuck yeah! Way to see it through my friend
+
+Good job setting your SL not too close, it's a common mistake to set it at some support/resistance level and not allow any (or enough) room for when the stock tests the level.
+
+Good catch
+
+omg its you hahaha told you man good job"
+Forex,oanda,Taken a short on EURJPY,,https://i.redd.it/ho1rlsi3asqe1.jpeg,https://www.reddit.com/r/Forex/comments/1jjdfgn/taken_a_short_on_eurjpy/,5,5,2025-03-25 06:55:38,Ausbel12,"1:1 rr?
+
+First why exactly did you put your stop loss there and why is your take profit there?
+
+Yes.
+
+RRR of 1-1"
+Forex,oanda,Perfect short today,"Waited 3-4hrs for this setup to form
+When it did, took the trade and was finished in 15min
+Goes to show trading is not always about doing something rather its about knowing what to do when to do and then waiting for it
+*not a news trade btw*
+
+Details: 
+had a strong bullish impulsive move on daily and now we were showing bearish signs (retracing)                                                                         Also we have a daily BISi and prev accumulation highs in ote of daily range                                                                                                                                 On the 4h, we had a CISD to the downside then retraced back to the CISD to the tick exactly also respecting a 4H SIBI on the way up
+On the 1h, we had a long down candle (forming a SIBI) and swing high just above it.                                                                                                      We formed a SMT with XAG which took the swing high above the big SIBI this resulted in london making the high of the day after sweeping asian highs (london manipulated to the upside)                                         We inversed a 15min BPR and had a CISD to the downside after forming the SMT                                                                                                            Targeted asian lows which were hit",https://i.redd.it/ybffx297jnqe1.png,https://www.reddit.com/r/Forex/comments/1jismup/perfect_short_today/,53,8,2025-03-24 14:57:37,Latter-Outcome-6805,"Sheesh bro congoo! How much rr you captured and how many dollars in pocket ?
+
+Cleeeaaan
+
+Good catch. Nice post. I don't trade ICT and have no clue what those terminologies are, but if I did I have a feeling I would be erect right now.
+
+Starting the week with shorts like this leaves me like this: 🤪
+
+1:2 currently participating in a fp comp so unfortunately nothing the in pocket xd im considering getting a funded from them so just wanted to try their stuff and get fimiliar before i do"
+Forex,oanda,UPDATE: SL HIT (BUY STOP BACKFIRED),,https://www.reddit.com/gallery/1jiqhvf,https://www.reddit.com/r/Forex/comments/1jiqhvf/update_sl_hit_buy_stop_backfired/,14,51,2025-03-24 13:20:27,Ausbel12,"You should have waited until it would hit support again
+Then there is a higher chance of being profitable
+
+Trade entry is the least important metric in a trading career. Take the L, it's fine if that's your strategy. 1:1 is about as high as you should go for R:R.
+
+Thats the signal for selling . Go short now kind sir
+
+What is that kind of opportunity ? Risk 10$ for 10$ ? Lol
+
+Look for selling entry at 163.032"
+Forex,oanda,Went long on EURJPY,,https://i.redd.it/w06d72x7jmqe1.jpeg,https://www.reddit.com/r/Forex/comments/1jioj31/went_long_on_eurjpy/,2,2,2025-03-24 11:35:58,Ausbel12,"What's the logic behind it
+
+SL hit. bad set up."
+Forex,oanda,backtesting,"guys is there anyway to backtets fxcm charts on the 30m for free, i want fxcm not anything else because my strategy requires me to trade fxcm because oanda and dukascopy are different so please help me if you can
+
+",https://www.reddit.com/r/Forex/comments/1jh7efs/backtesting/,https://www.reddit.com/r/Forex/comments/1jh7efs/backtesting/,1,6,2025-03-22 12:32:00,TOES0_8,"I’m not sure but you could try Traders Casa
+
+Do they support MT5? Great algo Strategy Tester built in to MT5. Manual back testing can be done at TradingView.
+
+sadly trader casa uses dukascopy price data its like 5-20 pips different
+
+yah thanks i will check this out because most backtetsing sites use oanda and dukascopy which is annoying thx
+
+I would only back test with my broker's feed. Maybe contact your broker and ask which is the best way to back test with their feed. They want your business."
+Forex,oanda,Have went on a long on EURJPY,,https://i.redd.it/58dykto8bzpe1.jpeg,https://www.reddit.com/r/Forex/comments/1jg9nyu/have_went_on_a_long_on_eurjpy/,2,3,2025-03-21 05:30:19,Ausbel12,"FOMO kicking in ey
+
+Thy hath went upon a long
+
+Hehe, don't worry. You'll get another set up."
+Forex,oanda,UPDATE: TP hit despite the big near SL hit.,,https://www.reddit.com/gallery/1jflelk,https://www.reddit.com/r/Forex/comments/1jflelk/update_tp_hit_despite_the_big_near_sl_hit/,1,6,2025-03-20 10:01:51,Ausbel12,"👏👏
+
+Good trade. Any reason why you didn’t wait for a pullback to the moving average?
+
+🤙
+
+Was confident of the continuation of the trend though yeah that almost backfired
+
+Was confident of the continuation of the trend though yeah that almost backfired"
+Forex,oanda,Good Week,It's been a good week,https://www.reddit.com/gallery/1jfkj6f,https://www.reddit.com/r/Forex/comments/1jfkj6f/good_week/,2,8,2025-03-20 08:56:19,_octavia-,"Lovely entries champ , well done !
+
+Is that all technical analysis? 
+
+Thank you man
+
+No, mostly fundamentals. I use technicals to confirm my fundamental bias.
+
+What tools do you use, like if you could sum up the most useful thing to form a bias?"
+Forex,oanda,Have gone short on EURJPY,,https://i.redd.it/24jsu1rufspe1.jpeg,https://www.reddit.com/r/Forex/comments/1jfil8l/have_gone_short_on_eurjpy/,2,5,2025-03-20 06:23:40,Ausbel12,"Where do you think it will head to next?
+
+Hope you hit your tp🙏🙏
+
+Hopefully down, obviously
+
+Yeah, I've so far survived three near SL hits but I am in blues right now. Hopefully I get that TP hit.
+
+Update: it did :-)"
+Forex,oanda,Question about Oanda,"This might be a stupid question and I apologise beforehand. I'm fairly new to forex trading with a few months into paper trading and started out with joining a broker (Oanda) and connecting my bank account with them, but I'm not able to transfer funds to my account because of the following message. I provided my Social Security Number to them but for some reason it wasn't validated. I know that theyre regulated but is it safe to send a signed image of it to them ? Has it happened to anyone here before ?   
+Thank you for your help in advance 
+
+[Email from Oanda to me](https://preview.redd.it/q5xskz6duope1.png?width=457&format=png&auto=webp&s=ade5cfe84570d61b6beacbcc0047dc7b4495ccd5)
+
+",https://www.reddit.com/r/Forex/comments/1jf3v5r/question_about_oanda/,https://www.reddit.com/r/Forex/comments/1jf3v5r/question_about_oanda/,1,0,2025-03-19 18:23:14,Equal-Bed8002,
+Forex,oanda,Another try at a Long on EURJPY ( they've been some scares),,https://i.redd.it/t0ybu6c5ampe1.jpeg,https://www.reddit.com/r/Forex/comments/1jet782/another_try_at_a_long_on_eurjpy_theyve_been_some/,1,1,2025-03-19 09:40:58,Ausbel12,
+Forex,oanda,"Update: Welp, wiped out due to BoJ's Governor Ueda speech.",Should have kept tabs and tapped out before the start of his speech.,https://www.reddit.com/gallery/1jercy1,https://www.reddit.com/r/Forex/comments/1jercy1/update_welp_wiped_out_due_to_bojs_governor_ueda/,2,2,2025-03-19 07:14:57,Ausbel12,"I was about to take this but didnt enter. 😅
+
+Haha, thank God you didn't bro."
+Forex,oanda,Went long on EURJPY and already in red,,https://i.redd.it/kr0vlvgy3lpe1.jpeg,https://www.reddit.com/r/Forex/comments/1jeq5kh/went_long_on_eurjpy_and_already_in_red/,0,8,2025-03-19 05:44:28,Ausbel12,"I mean… yeah, you bought at a range high 🤷🏼‍♂️
+
+Range high , channel high , a wick and no confirmations !
+
+Yap
+
+Actually was doing well and towards TP until BoJ's Governor Ueda speech took me out.
+
+Keep in mind that fundamental news follows the road that technical analysis has paved ."
+Forex,oanda,Whats your thoughts on my trade?,"Wyckoff traders out there, whats your two cents of ny set-up need your thoughts on this. Took this trade and hit TP 
+
+Open for discussions and brutal remarks. ",https://www.reddit.com/gallery/1jen52l,https://www.reddit.com/r/Forex/comments/1jen52l/whats_your_thoughts_on_my_trade/,9,1,2025-03-19 02:42:04,benjicot_,where can i learn wyckoff from? recommend some sources
+Forex,oanda,why did price react from this zone?,can anyone care to explain what caused a big move to almost breaking weak high? new to smc trading and would like to understand more deeply on what happened here. thanks! ,https://i.redd.it/0h7n3fyt5ipe1.png,https://www.reddit.com/r/Forex/comments/1jee33n/why_did_price_react_from_this_zone/,25,35,2025-03-18 19:50:56,Pristine-Quality6908,"the zig zags where the news.
+
+Edit: I don’t use Reddit on PC so I can’t post the chart. Nice liquidity grab. Most of the time price would go down to OPs level, but this time it reacted from that level. You can see how the first spike up consumed opposing orders.
+
+Actually this is because... 
+
+The price usually react from the first OB before the (BOS) ...
+ I MEAN 
+( Bottom of last invalsive wave , which made tha BOS )
+
+In addition you also have FVG in this zoon ..
+So the price mostly will react from this area
+
+H4 FVG
+
+Could be inducement to sell may hit the block later  as a discount zone of Asia or we break."
+Forex,oanda,Gone long on EURJPY,,https://i.redd.it/09zekgz97epe1.jpeg,https://www.reddit.com/r/Forex/comments/1jdyrcv/gone_long_on_eurjpy/,5,19,2025-03-18 06:30:36,Ausbel12,"There are better currency pairs to bet against the yen at the moment.
+
+I'm long CHFJPY.
+
+Not sure on that entry, Looking at the pattern, it's likely due a pullback. Good luck though.
+
+You are longing an internal liquidity. This better be a scalp, because the retracement is going to be brutal, especially with the BOJ talking on Wednesday.
+
+waiting for it to drop lol 
+
+got a few shorts to clear up 🤯
+
+ stoopid bots, i swear if I 10x in the opposite direction they open half even half the time, I'd be 'millionaire by now haha
+
+I have always had good things about that pair. How's it's volatility?"
+Forex,oanda,NEW to SMC,"New to SMC, but I've been back testing my strategy for the past weeks, and I've gotten better at understanding the market. once the price hits the OB i would ideally go to the 1 min and wait for a CHoCH and create an OB and take an entry once the price hits it for a 1:5 RR. Would love some feedback on what i can do or am missing out on. thanks",https://i.redd.it/yxe0o3injcpe1.png,https://www.reddit.com/r/Forex/comments/1jdszsk/new_to_smc/,3,5,2025-03-18 00:56:27,Pristine-Quality6908,"I'm using GPT to do analysis in SMC
+
+Looks good
+
+How, ChatGPT isn’t up date with real time?
+
+Need to use API"
+Forex,oanda,Trading fakeouts?,Does anyone here trade fakeouts. I’ve noticed after a fake out to the upside occurs (in the red) huge volume is followed to the down side. Just wonder if and how people utilize this. ,https://i.redd.it/mjsm4bnq1woe1.jpeg,https://www.reddit.com/r/Forex/comments/1jc0ai7/trading_fakeouts/,13,13,2025-03-15 17:27:29,NetRunner_Rizzy,"You could place a buy stop order over the resistance at a level where the uptrend happens for sure. For FX futures such ordets do exist, otherwise you need a script that does the job.
+From the price action alone you never know if it is a fakeout or a breakout.
+
+Yes, they are some of my most profitable trades
+
+Either a breakout or fakeout works, but in either case, always, always wait for confirmation of at least one bounce. But yeah, good observation. PA works like a bouncy ball around SR lines.
+
+Why would you place a buy-stop above the resistance when trading fake outs? 🤔
+
+Agreed. I’ll leave it alone."
+Forex,oanda,Stopped out. Why would the spread be this wide?,,https://i.redd.it/2ps2uo1eyioe1.png,https://www.reddit.com/r/Forex/comments/1jan960/stopped_out_why_would_the_spread_be_this_wide/,5,8,2025-03-13 21:27:05,Running_Noodles,"This post shows how the spread varies throughout the day. Especially right after midnight the spread is huge:
+
+[https://www.forexfactory.com/thread/1131716-understanding-spread-per-time-of-day](https://www.forexfactory.com/thread/1131716-understanding-spread-per-time-of-day)
+
+Market rollover spread spikes for 1 hour
+
+Lack of liquidity providers being available although they widen the spread during news releases to snag orders as well.
+
+[removed]
+
+Looks like you are new to forex. Thats the market rollover spreads. Everyday when the market opens, spreads are high for the first hour."
+Forex,oanda,Analysis #EURCHF: As always I need two time frames in sync in this case the Daily and 4H are bullish. Price is trending above zone and H4 is yet to create a new HH...I will wait for price to retest the zone to look for buy opportunities.,,https://www.reddit.com/gallery/1j8l0s6,https://www.reddit.com/r/Forex/comments/1j8l0s6/analysis_eurchf_as_always_i_need_two_time_frames/,3,0,2025-03-11 07:07:24,Ok-Funny-2390,
+Forex,oanda,"#NZDJPY: This pair played out to perfection yesterday. Retest of neckline on shoulder head shoulder pattern, entry was off the H2 Bearish engulfing also forming from a zone and it had also rejected the EMA,,So many confluneces in check here,,provided we following the overall trend.",,https://i.redd.it/p0b9qrxzc0oe1.png,https://www.reddit.com/r/Forex/comments/1j8kv8j/nzdjpy_this_pair_played_out_to_perfection/,2,2,2025-03-11 06:56:23,Ok-Funny-2390,"Will be sharing more of my set ups ..before and after chronicles,,,stay motivated always!!
+
+I'm always tragetting a 1:3RR...price almost hit my stop loss on this btw but we stick to the plan regardless and  she ended up playing out just fine."
+Forex,oanda,Oanda drawings on the 4 hour chart not there on smaller time frames?,In Oanda web platform I would like to be able to see my drawings from the daily and 5h chart on smaller time frames \*15 min chart\* I don't know how and it would be near impossible to re draw on small scale Please Help! Thanks!,https://www.reddit.com/r/Forex/comments/1j7z726/oanda_drawings_on_the_4_hour_chart_not_there_on/,https://www.reddit.com/r/Forex/comments/1j7z726/oanda_drawings_on_the_4_hour_chart_not_there_on/,2,0,2025-03-10 13:57:07,AmbitionNo7629,
+Forex,oanda,Confused about Prop Firm profitability,"Hey guys, been researching Forex for a few months. Primarily understanding price action, general market analysis, and have been using TradingView's basic plan to perform basic backtesting. I also have a background in mathematics so I'm not confused by ideas that arise from risk management and long term profitability.
+
+
+I have been planning out how to foray into starting trading, but prop firms seem to be utterly impossible to make work? I've only deep dived on Oanda, so I will be referencing their structure.
+
+
+Let me run through an example. A trader buys a challenge, where they are provided a virtual account with $100,000 for $599. 10% max dynamic drawdown and 5% dynamic daily drawdown. Phase 1 needs 8% profit. Phase 2 needs 5% profit. Total of 13% profit. 
+
+
+To adhere with risk management, their real account size is effectively $10,000 (drawdown). To ensure natural variance doesn't kick their ass, 1% risked for each trade is a solid idea, therefore, $100 risked. By itself, that's awesome. If the trader could take immediate profits that is an easy $599 -> $10,000. From here on, I reference the eventual funded account as being $10,000, as that is the $$ available to the trader.
+
+
+Now how can a trader actually become funded? 
+
+
+If we take an example edge, let's say 1:2 risk:return, with a 40% winrate, the traders expected value is (0.40x0.02-0.60x0.01) = 0.002. i.e. over a large sample size they will make a return of 0.2% of their max drawdown each trade. That's $20EV for a goal of $13,000 before being able to take profit. It should be noted that a 40% accuracy is pretty god damn high when the true breakeven is 33.3%
+
+
+
+This is utterly ludicrous haha. Sure, I think once you become funded and can make a withdrawal of minimum $200, that's a reasonable way to start (for $599 too!). But it would take a risk-conscious trader $13,000/$20 = 650 trades to become funded.
+
+
+I have other ideas, such as implementing a higher risk:reward for the short-term. I wrote a python script which simulated the results of and it seemed possible that you could up the risk:reward to something like 10% of max drawdown to 20% of max drawdown, but I didn't have time to get very far into my analysis. Off the top of my head you could get 30% - 60% of your attempts funded with various scales of accuracy and risk:reward of max drawdown.
+
+
+Further than that, let's say you do your best and keep trying. Even if a riskier strategy provides a 50% chance to fund an account, it's not unreasonable for you to fail 3+ times at those odds. Every fail is $599. $599 of your eventual $10,000 account is 5.9%. That's approximately two to six months of trading (given a reasonable expectation of around 1% - 5% return per month).
+
+
+Can someone provide insights into what I am currently considering? 
+
+
+Feel free to disagree with my math as well, I'd love feedback on it.
+
+Edit: changed EV calc as it italicized from the *",https://www.reddit.com/r/Forex/comments/1j57fyd/confused_about_prop_firm_profitability/,https://www.reddit.com/r/Forex/comments/1j57fyd/confused_about_prop_firm_profitability/,0,5,2025-03-06 22:02:19,FruitFliesLikeBonana,"It appears this thread is about Prop Firms and Scouting Programs. [**A detailed overview and comparison of popular forex prop firms can be found here.**](https://volatility.red/Trader_Scouting_and_Prop_Firms_Overview_and_Comparison)      
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Forex) if you have any questions or concerns.*
+
+The equation I use to determine prop firm risk per trade is max drawdown / my max losing streak across x data… and then I reduce it a bit. In this case if a trader doesn’t often see a 10R drawdown in their trading then it is worth them risking 1% on a prop account. The ROI can be huge!
+
+Of course if you often lose 20R (would be crazy imo) then you can risk 0.5% and still get a very good ROI.
+
+It’s not a personal account and it doesn’t cost the same as a personal account which has the same buying power in the market would, so there’s no reason to risk only 1% of the max drawdown.
+
+A simple look at your trading strategy data over a year would tell you all you need to know in order to optimise your prop firm risk management for max ROI.
+
+You need $62.5 a day with 100K account to get funded in 1 year. That’s 2 x Nas100 scalps a day with like 2.5 lots targetting 15 points or one trade with 5 lots. That can be made at NY open with a little bit of daily prayers easily.
+
+""......a bit of daily prayers"" had me rolling
+
+TA < religion 😂"
+Forex,oanda,How many of you are algo traders?,"I've been algo trading stocks and crypto for a few years, and while I've traded forex before, it's only been the last few months I've really focused on forex specifically because of the leverage and because my boss is really into it though he hand trades, doesn't use algos.
+
+I have to admit this has been working gangbusters for me though! trading 16 pairs fully auto and just making little tweaks here and there to inch up my daily return. I honestly feel like this market is way better than stocks and crypto.
+
+My technical set up is tv webhooks to a python server to Oanda, and I livechart all my results in Google sheets also automatically which is fun to watch while I work at my desk.
+
+I'm curious how many of you are also deploying algos? and what's your technical set up look like?",https://www.reddit.com/r/Forex/comments/1j18vco/how_many_of_you_are_algo_traders/,https://www.reddit.com/r/Forex/comments/1j18vco/how_many_of_you_are_algo_traders/,5,12,2025-03-01 20:25:22,tat_tvam_asshole,"Look into r/algotrading . I do both live trading and algo trading at low volumes whilst I test my strategy and finesse the code. I too have a TV pinescript API call setup into fxcm, but plan to upgrade this to a more sophisticated ML python solution through Visual studio code and API connections with brokers. I've been working on my master strategy for a couple years now and am pretty happy with it, barring some tweaks needed to risk management side. And also in midst of changing brokers as I've qualified for a pro level account with 1000:1 leverage and super tight spreads with IC Markets.
+
+U can also use the Python bridge in mt5. I did work on pattern recognition (it would look at certain formation of swing low/high patterns and other indicators) hooked up to  mongodb and it was mildly successful. The biggest drawback of algo trading is making it understand the' change in regime'. The work that we did encompassed creating entirely different modules in signal generation, risk management, order management, portfolio risk management etc. Risk was a big part of it. Project is on hold for now, we are looking to take up on it once this learning model expert comes on board.
+
+Ps oanda didn't provide any tick data, they have a limit on how many API calls u can make on their restful API.
+
+Have you tried writing the code only by ChatGPT? I found for my strategy it somehow cannot debug its own code (python).
+
+I completely understand you, I was into coding algos for futures but that was a mess of its own. 
+
+Like someone else here said, creating algos ironically has became my trading income alongside trading itself. 
+I’ve tried to deploy with python but I now heavily rely on mql4 and mql5 strictly. I’ve learned to transfer code between the two.
+
+Currently running 3 pairs,
+
+•Gold
+•GbpJpy
+•Eurusd
+
+Averaging about 0.28% daily.
+
+Regime change isn't difficult to detect/code, ime. I just use Oanda as a broker, not for data, and I trade 30min candles so API limit isn't a huge deal breaker anyway.
+
+Are you looking into ML for parameter optimization, price prediction, or entry/exit prediction? I have a bit of experience in this area."
+Forex,oanda,OANDA withdrawal,Can someone help me on how to withdraw from oanda to skrill. New to the broker that is why I aint that familiar with the processes or requirement. I’m from Asia (Philippines). ,https://i.redd.it/tnspvp11ktle1.jpeg,https://www.reddit.com/r/Forex/comments/1j00v00/oanda_withdrawal/,1,6,2025-02-28 05:52:16,Creepy-Category5841,"withdraw via bank wire
+
+switch to a new broker, try USDT or local bank withdrawal
+
+Is there any update on your situation?Have you withdrawn your money?
+
+Philippines is restricted from a lot of prop firms and brokers.. unless it’s your own money
+
+It’s my own money. I don’t do funded."
+Forex,oanda,GJ Perfect Supply setup!!,"See we have a double top created at a 15 minute supply zone. Pre newyork created another supply zone right at the retest of the neckline
+At 8:30 price came back inside of the supply zone. And touched it to the EXACT pip
+Took price down to the nearest demand zone (5 min demand) and you see price reacted off that zone and gave a push back to the upside
+
+Stop loss 20pips
+Take profit 68 pips",https://i.redd.it/9xvxw1nc3ple1.jpeg,https://www.reddit.com/r/Forex/comments/1izhijp/gj_perfect_supply_setup/,3,2,2025-02-27 14:51:40,Proof-Difference192,"Took a short from a supply on gold this morning good shit
+
+Im currently working on a dual monitor setup. I saw the gold supply at around 8:30-9:00 a.m but i missed it trying to catch this trade"
+Forex,oanda,"Cant Withdraw From Oanda, need help","I'm new to Oanda; can someone help me withdraw funds? I'm from the Philippines, so maybe that is one of the issues?  
+and yes, It's My fault for not researching enough about the broker",https://www.reddit.com/r/Forex/comments/1izbivy/cant_withdraw_from_oanda_need_help/,https://www.reddit.com/r/Forex/comments/1izbivy/cant_withdraw_from_oanda_need_help/,5,4,2025-02-27 08:59:26,Creepy-Category5841,"contact the broker and your account manager to know whats the issue.
+
+Oanda is regulated and processed our withdrawals smoothly"
+Forex,oanda,Anyone in this trade. GBP/JPY short.,,https://i.redd.it/5acypnw10ile1.jpeg,https://www.reddit.com/r/Forex/comments/1iypgfc/anyone_in_this_trade_gbpjpy_short/,0,19,2025-02-26 15:00:42,Wapaka_bee,"Ummmm...
+
+Yes
+
+I would’ve been if it wasn’t 3am for me 
+
+):
+
+Dude every second post some ape is taking a picture of their screen. Learn to fucking take a screenshot
+
+And clean your screen
+
+What's the logic behind this trade? I'm genuinely asking out of curiosity.You've added EMAs and RSI to the chart, but the position you entered is against the shown trend."
+Forex,oanda,Oanda - TastyFX price difference?,"This shows Oanda/TastyFX quotes for three pairs. The Oanda price is higher (except on the USDJPY) does that mean they are charging a bigger spread?
+
+https://preview.redd.it/x5ar21wficle1.png?width=354&format=png&auto=webp&s=dc3e4c449efdcf440c0c1f5f714abe6818a8e1e5
+
+",https://www.reddit.com/r/Forex/comments/1iy51x6/oanda_tastyfx_price_difference/,https://www.reddit.com/r/Forex/comments/1iy51x6/oanda_tastyfx_price_difference/,2,4,2025-02-25 20:33:38,MetalOxGhost,"No, for that you’d need to actually look at the spread. You can just open a chart for each and look at that middle number between the sell and buy buttons on the upper left
+
+tastyfx, LLC (“tastyfx”) is a Commodity Futures Trading Commission (“CFTC”) registered Retail Foreign Exchange Dealer (RFED) and Introducing Broker (IB) and Forex Dealer Member (FDM) of the National Futures Association (“NFA”) (NFA ID 0509630). [TastyFX Home](https://www.tastyfx.com/)
+
+It depends on the liquidity provider the broker works with, besides tastyfx is not regulated
+
+Tastyfx is regulated by both the CFTC and NFA in the United States."
+Forex,oanda,Oanda or FXCM,Which one is better and accurate? ,https://www.reddit.com/gallery/1ixo9nx,https://www.reddit.com/r/Forex/comments/1ixo9nx/oanda_or_fxcm/,4,9,2025-02-25 06:08:17,Asstrounaut123,"I can't answer your question directly, but I believe fxcm was booted from the American market by regulators. Something to consider.
+
+Try forex.com bro
+
+I personally trade on Oanda because there are very rarely any gaps
+
+Best bet is to see which one is closest to your broker
+
+Use ICE"
+Forex,oanda,Am i doing it right?,"Sorry for bad english.
+I started studing trading 1 year ago and I also read many time trading in the zone by mark douglas.
+I mainly trade xauusd (oanda) and occasionally btcusd.
+I failed 4/5 time 10k ftmo prop firm, now i am doing a prop by founded next of 50k, lost about 4.5k by being inconsistent and overtrading but I almost make it all back now.
+As a trigger i use supply and demand, structure brakeout.
+Do yall think this is pure luck? Any tips? 
+This is also my first post on reddit, love from italy 🤌🤌🍕🍕
+",https://www.reddit.com/gallery/1ix67vz,https://www.reddit.com/r/Forex/comments/1ix67vz/am_i_doing_it_right/,2,5,2025-02-24 16:33:28,ricechad_super_chad,"If your account is going up then yes you're doing it right
+
+Not sure if 4.5k is a lot of money to you or not, but if it is, I would look at what I’m risking per trade. Personally never risk more than 1% of trading account, an on funded accounts I risk 0.25 % - 0.5% per trade. 
+
+Also if you see massive swings in your performance, that’s probably because of luck. A slow, steady curve will mostly indicate good practice. Good luck mate.
+
+If you have to ask this then no you are not doing it right… forex isn’t supposed to be wild gambling, you make a trade once per day when you are 100% sure of your set up and your stop loss and take profit decides if you were correct or not
+
+Additionally you have 8 losses and only 3 wins, each trade is its own set up so I’d assume that’s over 2 weeks (if it’s not you need to readdress  
+your trading plan) also at the very least you are not winning 50% of your trades and that means your entry timing or chart pattern reading is wrong"
+Forex,oanda,You can't make this shit up🤣,,https://i.redd.it/dqtcebz904le1.jpeg,https://www.reddit.com/r/Forex/comments/1ix5c0y/you_cant_make_this_shit_up/,42,54,2025-02-24 15:57:02,_octavia-,"Why does your chart look sad tho 😂
+
+You have to use higher timeframes to identify where price is drawing liquidity from. A trade may look good on the 5 min chart but not on the 1 hr chart.
+
+Bumbaaaclooot
+
+thats why u trade with no stoploss
+
+Man... 😂😂 Have you zoomed out and check where that liquidity sweep comes from ?"
+Forex,oanda,Isn't price action weird from last week? (Fib Retracement),"Hello,
+
+Below, I have attached some ss of my recent trades. I use only fib retracement. (FYI: I use heiken ashi candles and wait for break of structure and candle with no bottom wick for long position and candle with no upper wicks for short position in my fib zone and my sl is 0.618 level and tp is 0, you can also see in ss. here is the video which i follow: [https://www.youtube.com/watch?v=JFLroByoC5s](https://www.youtube.com/watch?v=JFLroByoC5s) )This strategy was working so fine past few weeks but suddenly from last week seems price action is weird, all of my trades gone in loss. I don't trade in news time as well. please feel free to give any suggestions or comments on my trade setups. I tried it lots of forex pairs and didn't worked out, which is interesting!
+
+https://preview.redd.it/xjgw9lpoa2le1.png?width=2190&format=png&auto=webp&s=69ad598000a994b144b4df2f3fcdbb5edaa2a457
+
+https://preview.redd.it/6ff7dmpoa2le1.png?width=2190&format=png&auto=webp&s=f840cdee08d9eac55495672b202cdd1157cec55c
+
+https://preview.redd.it/f7mo19poa2le1.png?width=2190&format=png&auto=webp&s=6299ffa8d5c46b8fc100086812664d70e8d7c0cf
+
+https://preview.redd.it/26j5awpoa2le1.png?width=2190&format=png&auto=webp&s=f23667440ab81d7ebaad3676cf5ae6321b3de1a7
+
+https://preview.redd.it/xant99poa2le1.png?width=2190&format=png&auto=webp&s=c047347bf071034bbca54d9944390e7b123011b5
+
+https://preview.redd.it/eq9g79poa2le1.png?width=2190&format=png&auto=webp&s=4e2ae29940310cc0d0bd459f4fcc3c193447e8fb",https://www.reddit.com/r/Forex/comments/1iwysqh/isnt_price_action_weird_from_last_week_fib/,https://www.reddit.com/r/Forex/comments/1iwysqh/isnt_price_action_weird_from_last_week_fib/,0,6,2025-02-24 10:13:03,d_dark_phoenix,"Unfortunately no strategy works all the time. Sometimes you’ll have just simply have to tweak something.
+
+If you have data proving your system works x % of the time, and your risk structure supports it from a mathematical perspective, you have nothing to worry about.
+
+If you don't... then you're doing stuff wrong from the beginning.
+
+i agree. btw do u encountered something weird in price action from past week? like all the trades i took they went in loss which is very strange! any comments on my trade setups though?
+
+agreed.
+
+Like pakcikzik said, NOTHING works all the time.
+
+It's a game of probability. So in a sample of 1000 or even more trades, statistics say you WILL lose multuple trades in a row. 5...10.... nothing out of the ordinary."
+Forex,oanda,OSOK loading | ICT,,https://i.redd.it/qp2iscblhske1.jpeg,https://www.reddit.com/r/Forex/comments/1ivyah1/osok_loading_ict/,1,3,2025-02-23 01:12:43,Extension_Lab_5444,"I’m sure you can add a few more made up terms on that chart. You’re barely even trying.
+
+This is the algorithm. Sorry."
+Forex,oanda,Here we go Again 📉,,https://www.reddit.com/gallery/1iv2km7,https://www.reddit.com/r/Forex/comments/1iv2km7/here_we_go_again/,52,37,2025-02-21 21:42:17,Disastrous-Act-1373,"What is your viewpoint to ensure that position win?
+
+Don’t let price run into you. Run into price.
+
+Knowing nothing of your strategy the only advice I have for you is to not live and die by your TP. A win is a win and it’s okay to get out 3 pips before.
+
+The classical strategy aka trading on hindsight
+
+atleast show us sum confirmations/confluences. 
+seeing trade executions with its respective analysis is better than an empty chart.
+what u are showing me here means nothing"
+Forex,oanda,Can someone guide me? 😊,"https://preview.redd.it/5gnwjwwsxjke1.png?width=2026&format=png&auto=webp&s=a58c0d09cc2db1c34b312a3d8657388a8c4dbf33
+
+* I started learning forex today.   
+* How can I use TradingView more effectively?
+* Are the supports and Resistance that I have drawn seem right? 
+* Your thoughts?",https://www.reddit.com/r/Forex/comments/1iv0ud3/can_someone_guide_me/,https://www.reddit.com/r/Forex/comments/1iv0ud3/can_someone_guide_me/,1,6,2025-02-21 20:30:30,itsmewholesome,"Before I ask anything else are you starting off with paper trading or live?
+
+first thing, don’t draw them yourself. 2nd thing; add in minimum BBs, rsi, macd, linear regression channel, ema 20, 50. also check out the top rated community trading view strategies / indicators
+
+Funded account mostly
+
+Thanks dude I will do some research on it.
+
+I got to be honest starting off with a funded was not a good idea since you just started learning you need practice and time to learn how the forex market works so for now I advice you to switch to paper trading and try to be profitable for 3 months straight before using real funds so you can go in with a strategy that works out for you and a somewhat decent mental though I can’t say if you will have a strong mental game or not that’s on you."
+Forex,oanda,Simple supply setup,"Notice how pre-newyork session reacted off a area of supply from london session. Right before new york session started price came back up into the pre newyork supply zone and reacted off the 1 minute supply zone to the EXACT pip
+
+I dont even use chart patterns but the fact that there was a double top at the 1 hour supply zone and my entry (the 1 minute and 5 minute supply zone) was retesting the neckline gave me all confluence to enter this trade
+
+I exited at 30 pips but i know price is headed to the 15 minute demand zone at bare minimum for 55 pips (im still getting my psychology right and learning how to stay in winning trades) (its getting better i stayed in for 30 pips when i used to exit at 10 pips last week lol) 🔥🔥🔥",https://i.redd.it/vsbdxbj08ike1.jpeg,https://www.reddit.com/r/Forex/comments/1iusfu4/simple_supply_setup/,11,5,2025-02-21 14:41:14,Proof-Difference192,"I don’t see a bunch of indicators on your chart. You Keep it simple and your theory makes a lot of sense on why you entered the trade with an absolute sniper entry. You will succeed for sure my brother 🙏🏻
+
+UPDATE: Price dropped as i expected, even past the 15 minute demand, and down to the Daily demand(blue line) for 85 pips) my final step is getting my psychology down and staying in winning trades to my profit targets
+
+Jordan’s strategy right
+
+Appreciate it! I try to keep it simple and efficient as possible! Finally found a strategy that works
+
+Bingo!"
+Forex,oanda,(Help) mobile trading with Oanda,"So I’ve put a little money in an Oanda account. I tried a couple of small trades just to see how operating MT4 was with a live account. Let me tell you! It is NOT the same as a demo account I practiced with on MT5. I like to just take market orders, but I could not close the one trade that was in profit as (I could only gather)  it was out of order in which it was placed. I was able to close them all out in a different order than they were placed. Which forced me to realize losses on some of the trades. 
+Then out of frustration with that, I linked to TradingView to try that, all seemed fine aside from the fact that I couldn’t trade a typical lot size, it wanted my total quantity! WTH! 
+
+Are these common problems? Easily fixable? Do people just live with them? 
+
+I don’t know anyone who trades, so I’m sort of alone in this. May be having a rough day too, so I’ve resorted to just trying to ask you fine folks. 
+
+Any help would be greatly appreciated.",https://www.reddit.com/r/Forex/comments/1iu7xoo/help_mobile_trading_with_oanda/,https://www.reddit.com/r/Forex/comments/1iu7xoo/help_mobile_trading_with_oanda/,1,2,2025-02-20 20:06:19,kemosabe-22,"Oanda stopped operating mt4 since last year, 2024 Oct. It transitioned away from mt4 to mt5, to focus on the newer more advanced mt5 trading platform. 
+
+Try speaking to the helpdesk and move to mt5, maybe that can fix the problem.
+
+You just blew my mind. So it’s still working on mt4.. when I was creating my Oanda account, it only mentioned mt4 and TradingView. I’ve actually never even heard of Oanda using mt5 until just now, when I google it and sure enough!
+
+Is it only in certain countries?"
+Forex,oanda,Winning Day after 2 Continuous L Days,"Bouncing back after two losing days. 
+
+Stick to your plan.",https://i.redd.it/r4eo2lugrbke1.jpeg,https://www.reddit.com/r/Forex/comments/1iu38li/winning_day_after_2_continuous_l_days/,11,0,2025-02-20 16:57:47,No-Frame-9205,
+Forex,oanda,Simple supply setup for 1k today,"Broke daily supply. Next major level was the green line(1 hour supply) …price Came into my 5 and 1 minute supple zones . Went into some drawdown(tapped the 3 minute supply zone) and went to my Take profit at a 1 hour demand zone
+1:2 for 16 pips
+USD/CAD is all i trade 🙏🏽",https://i.redd.it/5p5kiyy3dbke1.jpeg,https://www.reddit.com/r/Forex/comments/1iu1asi/simple_supply_setup_for_1k_today/,48,9,2025-02-20 15:37:19,Proof-Difference192,"EDIT: meant to say BROKE DAILY DEMAND** and green line is a 1 hr DEMAND** not SUPPLY
+
+Lot?
+
+Beautiful . 🍾👏🏼
+
+9
+
+Thanks brother 🙏🏾"
+Forex,oanda,Can GPBJPY can go to my level?,"Please need suggestions guys.
+",https://i.redd.it/irbrui75e9ke1.jpeg,https://www.reddit.com/r/Forex/comments/1itu8iw/can_gpbjpy_can_go_to_my_level/,4,4,2025-02-20 08:59:31,Iam-junaid,"I’m short on this, thinking it will break your level, it’ll prob react off of it, but won’t break new highs on 1hr
+
+188.5 - 189.1 buy area for me"
+Forex,oanda,Advice on currency pairs for SMC,"Hi everyone, I'm new to FX trading and using a paper money account to develop some strategies. I'm studying these so called ""Smart Money Concepts"" of looking at market structure, liquidity, and order blocks to try to follow institutional moves (largely based on concepts from YouTubers Photon Trading / Matt Donlevey and Fortune Talks). I began by watching Jason Graystone's content but was constantly getting stopped out, so I found these liquidity concepts interesting.
+
+  
+Anyway, I'm having a hard time identifying which currency pairs to trade. USD-based pairs have the highest volume, but they're all obviously tied to the performance of USD. So, I believe there's a huge correlation risk if just trading the USD pairs. Some of the pairs (NZD/CHF) are extremely low volume and have quite choppy price action. I mostly use 1D as my higher timeframe and 1H as my trading timeframe, sometimes looking at 15min for confirmation. 5min has burned me too many times so far.
+
+  
+What advice do you all have about selecting which currency pairs to monitor and trade? All of the major currency pairs is too overwhelming for me. I have a hard time assessing the true trading volume; Google indicates EUR/USD is the highest volume pair, but I rarely see it having the highest volume displayed in TradingView (Oanda is my broker).",https://www.reddit.com/r/Forex/comments/1itsokb/advice_on_currency_pairs_for_smc/,https://www.reddit.com/r/Forex/comments/1itsokb/advice_on_currency_pairs_for_smc/,3,3,2025-02-20 07:08:43,Expwy,"Forex is a decentralized market, there’s no way to know the true volume information like you can with stocks or futures. I wouldn’t rely on any strategy that involves volume for Forex due to this.
+
+Also, you do you, but personally I recommend staying away from SMC stuff. It’s overly-complicated and for no added benefit, is also based on a lot of overly-simplistic incorrect assumptions about how markets work, and is often created and peddled by scammers and fraudsters. 
+
+Price action & market structure are IMO the best place to start as a trader. Tradeciety is a good resource for that type of stuff, but there are plenty of other sources out there.
+
+If you’re day trading then just pick a few pairs that aren’t too correlated. Perhaps EURUSD and GBPJPY, or something like that. You can honestly even get away with only one pair as a day trader. 
+
+If you’re swing trading, then you’ll probably want at least 3 pairs, if not more, to monitor since setups will be less frequent.
+
+Thanks a lot for taking the time to reply. It's interesting what you say about SMC. I started to explore it as a response to my stops getting blown out and then price going in the direction I was essentially trading anyway. Do you have experience with that, or advice on avoiding that scenario? Do you look at areas where there might be a lot of liquidity built up and place your stop losses beyond those, or do you ignore liquidity concepts entirely? I could just set wider stop losses too of course. I realize that at the end of the day it's all about establishing a firm set of rules that work for me.
+
+  
+And noted regarding the pairs, thanks for that. I've actually had good results with GBP/JPY over time. Right now I mostly swing trade as I still have a day job, although my goal is to eventually support myself by trading.
+
+You’re welcome. Yeah it’s a common thing traders do in the beginning, feels like every trade singles you out personally just to take your stop and then take off. But that’s not what’s actually happening. 
+
+I don’t use liquidity concepts, no. I made a [post](https://www.reddit.com/r/Forex/s/uhl86p09bH) awhile back regarding some things that can happen to inexperienced traders that can make it *feel* like the market is out to get them (when it’s not), and some possible basic solutions. You can take a look at that if you’d like. It’s essentially just being out-of-synch with the waves of the market."
+Forex,oanda,Dispel Platform Choice Overwhelm,"Yep, new to Forex. “Sure thing”, I think to myself, “I’ll just go to Babypips and YouTube and start self-learning…” 
+
+Then I start to see that nobody uses Schwab and ThinkorSwim, so I think, “go find a platform for paper trades that also has a good mobile app. How hard could that be?”
+
+Now I’m just confused. There’s all these bottom feeder apps made by brokers (Oanda?) and dinosaur apps name MTfoo and everyone seems to love TradingView but it’s more for charts than trades… wtaf?
+
+I get it that a software platform is not a broker. Where can I find decent reviews of forex software?
+
+And yeah, check out that hard hitting comparison matrix attached.
+
+",https://i.redd.it/kdertw82x6ke1.jpeg,https://www.reddit.com/r/Forex/comments/1itlkn7/dispel_platform_choice_overwhelm/,9,3,2025-02-20 00:40:13,MetalOxGhost,"MT4/MT5 are just fine for retail traders... don't get so caught up on having the ""perfect setup"". Learn the execution platform first in and out and you'll learn to work with it. I work for a  great broker, so if you haven't found a trading solution let me know.
+
+First of all, most people choose brokers for a good trading environment & spreads, such as IG, ICmarket, Vantage
+
+Secondly, most people use trading tools such as MT4/MT5/tradingview/ctrader which need to be linked to brokers, which provide charts that allow traders to clearly know the direction of the market.
+
+You can pm to discuss more"
+Forex,oanda,New Strategy,"I’ve been using ICT concepts, I waited for a liquidity grab, waited for a MSS then a FVG and I was following the trend, does this look like a good setup or did I just get lucky, I’m new just looking for some advice thanks ! ",https://i.redd.it/avm8xutrt5ke1.jpeg,https://www.reddit.com/r/Forex/comments/1itggcw/new_strategy/,6,5,2025-02-19 21:00:03,Realeyez_Gaming,"Just lucky.
+
+How so?
+
+You’re  looking for so many made up terms, instead of just looking at the chart. There was no liquidity grab there for example, just regular price movements. The trade in the end was quite good,but not because of all those things you found.
+
+Preciate the explanation :)
+
+Yeah I see what your saying appreciate it 💪🏾"
+Forex,oanda,welp,,https://i.redd.it/k9hinkqjrxje1.png,https://www.reddit.com/r/Forex/comments/1isitep/welp/,2,5,2025-02-18 17:53:30,_octavia-,"It's the OANDA price feed, the wick on that pin bar isn't as low in other price feeds we follow (FTMO, 5percenter, eightcap, purple trading, blueberry etc), Can't say much for the spread though (GBPNZD spread can widen fast). I find Oanda price feed to be more like STP (higher spreads) vs ECN .
+
+I got stopped out in my platform as well😂I think this  was caused by the global dairy prices something...
+
+yep, that GDT auction, as NZ biggest export market is the powered milk. Just like CAD on sour crude. I find that putting a wider loss when trading GBPNZD, daily average can go 150+ and means spreads can also widen. 
+
+GBPNZD smack hit its average daily price range today and NZD has been weak across the board all day. RBNZ tonight, maybe buy the rumor, sell the news. 
+
+[https://postimg.cc/z36h4HbT](https://postimg.cc/z36h4HbT)"
+Forex,oanda,Giving forex another try,"I was getting sniped so hard on Oanda that I decided to quit forex and moved to futures and stocks. But I want to try it again because it offers more leverage and risk control.
+
+For swing traders, how do you avoid getting sniped?
+
+I’m planning on using the 4 hour time frame also only putting orders to open only during times of lower spreads.",https://www.reddit.com/r/Forex/comments/1irl7tb/giving_forex_another_try/,https://www.reddit.com/r/Forex/comments/1irl7tb/giving_forex_another_try/,5,18,2025-02-17 14:36:11,carlos11111111112,"There is no avoiding ""getting sniped"".
+
+Find a strategy, add a risk structure to it.. execute with consistency and gather data.
+
+After a while you'll see what your statistics say.
+
+If you can manage a 45-50 % winrate with targeting 1:2 in risk to reward, there's nothing to worry about. 
+
+Good luck g
+
+Sniper entry is a good thing. wdym you are getting sniped?
+
+What do you mean by “getting sniped so hard”?
+
+See my post
+
+You can even use the 1h time frame, just make sure you have a good SL."
+Forex,oanda,Market Shift,"
+
+Having a hard time identifying Market Structure Shifts, any advice ? I’m not sure if I should be looking at the Ltf highs and lows or the htf highs and lows I’m so confused ",https://i.redd.it/fmb7zsx7kfje1.jpeg,https://www.reddit.com/r/Forex/comments/1iqke4w/market_shift/,6,4,2025-02-16 04:40:08,Realeyez_Gaming,"Hey bro! How's it going. To be considered a MSS it must be the break of the point that started the last low or high, depending on the market trend, and it is always important to start from the most general to the most detailed. I don't know if you understand, I hope you do. Good luck!
+
+Gj gonna plummet today and this week im holding my sell  from 192."
+Forex,oanda,What you guys think of GBP/JPY th3 coming week?,"Considering we are on a downtrend, I suppose the next week is going to be a further downtrend to hit the previous major low (the holizontal yellow ray) or is there a possibility of CHOCH? And we move to uptrend? Either way, GJ traders what you saying?",https://i.redd.it/s9ng0d9tkbje1.jpeg,https://www.reddit.com/r/Forex/comments/1iq3hcc/what_you_guys_think_of_gbpjpy_th3_coming_week/,12,36,2025-02-15 15:16:22,Lukamatete,"I don't trade GJ but I'd short it if I did, JPY rallies on USD weakness since it's a safe haven asset. The Fed is likely to be dovish thanks to last week's retail sales showing a weakening US economy. Also BoJ rate hike expectations plays a role in long term JPY strength.
+
+Bullish
+
+You don't trade based on what you think. You trade based on what you see, and what you see is how the market plays out.   
+  
+It could be -   
+  
+1) uptrend because global yield is rising and JPY depreciates  
+2) JPY appreciates because we are on a risk off environment. 
+
+3) GBP depreciates because of growth concerns in the UK economy. 
+
+Above is macro driving the currency pairs, but why focus just on gbpjpy? like CHF is moving plenty due to capital flows.
+
+It made higher low
+
+For me is bullish"
+Forex,oanda,Any experience with forex.com,I was choosing a broker not opening account yet but still wondering does someone have experience with forex.com or any other brokers like interactive brokers or oanda?? Which one of them are good?,https://www.reddit.com/r/Forex/comments/1ipmdjo/any_experience_with_forexcom/,https://www.reddit.com/r/Forex/comments/1ipmdjo/any_experience_with_forexcom/,0,5,2025-02-14 22:07:28,Dangerous-Doctor-648,"My broker is Oanda, and have no complaints, they’ve been good. I’m sure Forex.com is good too. IBKR might be good if you also want to trade other markets (stocks, futures, etc) from the same broker. But generally if you’re only trading one market, it’s usually best to go with a broker that only does that market
+
+I wanna trade forex
+
+Alright cool, then I’d suggest Oanda or Forex.com, whichever appeals to you more. Oanda offers a free unlimited demo account (while Forex.com only offers a time-limited demo trial). So maybe sign up for the free Oanda demo and try it out. You can connect to TradingView and trade from there
+
+Ok buddy thanks like I just saw a reel and it generated a doubt of a book broker and b book broker so i thought to ask it here"
+Forex,oanda,What went wrong,"I sold Aud/JPY for 60 pips 
+Am I over expecting or something?
+",https://i.redd.it/2ltouhrg7rie1.png,https://www.reddit.com/r/Forex/comments/1inyby5/what_went_wrong/,7,53,2025-02-12 18:45:54,Key_While3811,"Personally, if I entered that I'd be on a 1:1 ratio or even less without a question. You were shorting pullbacks on an uptrend...
+
+nothing went wrong you just forgot to take profits early
+
+Maybe nothing went wrong if set-and-forget is your plan
+
+Otherwise improvements include the use of trailing stop, setting BE, dynamic management (taking profits earlier than planned based on experience) etc. 
+
+Really depends on what your edge is
+
+Brother u got liquidity grab
+
+Well, since you just sold it for no apparent reason, sounds like you might be gambling…
+
+AUDJPY’s been on a steady sell-off for a while now, take a look at the daily chart and see where the price is COMING FROM and how it reacted to that level. Then, check sentiment and fundamentals. What’s the long-term outlook? What’s the short-term play?
+
+Looking at how price is reacting on the H4 and Daily, do you really think that tiny level on the hourly is going to hold up when you’re selling with no confirmation, no momentum slowing down, and no solid reasons to back it up? Probably not…"
+Forex,oanda,2 weeks later,,https://i.redd.it/hm9vbmub1dhe1.png,https://www.reddit.com/r/Forex/comments/1iigbxg/2_weeks_later/,16,3,2025-02-05 18:02:44,peopleeater23,"Great job hanging in there for so long! What was your thought process on this trade?
+
+diamond handing it. what a horrible way to trade long term, move to a shorter time frame and close positions more frequently"
+Forex,oanda,Reliable volume,"Hey traders, I currently use OANDA charts for volume and analysis. Can u guys recccomend me any other charts which is multi regulated and has much more reliable volume.",https://www.reddit.com/r/Forex/comments/1ihbpsy/reliable_volume/,https://www.reddit.com/r/Forex/comments/1ihbpsy/reliable_volume/,3,2,2025-02-04 06:42:05,Past_Path_1072,"There is no reliable volume information in Forex, as it’s a decentralized market
+
+You'll never be able to see the real volume in forex. Forex is a decentralized market. You don't really own anything. If you compare prices with different brokers you will notice that the chart is slightly different despite looking at the same currency pair. A centralized market like a stock exchange (New York Stock Exchange, Euronext etc) is were you can accurately measure volume because shares of companies are bought and sold."
+Forex,oanda,Will FTMO Now Accept US clients again after acquiring Oanda?,"I was pretty bummed when FTMO stopped accepting US clients. 
+
+Considering they just acquire a broker that is HQ’d in the US, does this mean they’ll enter rhe US market again? I hope so! 
+
+All these other prop firms have been sketch. ",https://www.reddit.com/r/Forex/comments/1igx2uq/will_ftmo_now_accept_us_clients_again_after/,https://www.reddit.com/r/Forex/comments/1igx2uq/will_ftmo_now_accept_us_clients_again_after/,6,11,2025-02-03 19:08:49,pookshak,"It appears this thread is about Prop Firms and Scouting Programs. [**A detailed overview and comparison of popular forex prop firms can be found here.**](https://volatility.red/Trader_Scouting_and_Prop_Firms_Overview_and_Comparison)      
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Forex) if you have any questions or concerns.*
+
+[deleted]
+
+In the press release they have mentioned that they’ll keep OANDA as a standalone entity
+
+Just wanted to add that, I received an email today from ftmo about a confidential survey regarding the U.S trading landscape. I feel like maybe we could be starting to see the light again! Hopefully they will open back up to US clientele
+
+They could still use their Oanda's US registration to open a prop business in the USA."
+Forex,oanda,OANDA acquired by Czech prop firm FTMO,,https://fxnewsgroup.com/forex-news/retail-forex/oanda-acquired-by-czech-prop-firm-ftmo/,https://www.reddit.com/r/Forex/comments/1iguzyf/oanda_acquired_by_czech_prop_firm_ftmo/,41,11,2025-02-03 17:46:08,lpsg08,"It appears this thread is about Prop Firms and Scouting Programs. [**A detailed overview and comparison of popular forex prop firms can be found here.**](https://volatility.red/Trader_Scouting_and_Prop_Firms_Overview_and_Comparison)      
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Forex) if you have any questions or concerns.*
+
+This is good 
+
+I hope FTMO start using Oanda for their data/spreads because they suck at the moment
+
+This is interesting. I really hope FTMO can come into the US.
+
+I use OANDA, what does this change?
+
+I wonder what are the benefits for retail traders here."
+Forex,oanda,"No hindsight trading, clear cut level & plan with backtested strategy",,https://www.reddit.com/gallery/1igiokh,https://www.reddit.com/r/Forex/comments/1igiokh/no_hindsight_trading_clear_cut_level_plan_with/,8,2,2025-02-03 06:14:16,truz26,"[deleted]
+
+hi mate. I get why u are angry because alot of fraud in the industry. you can go through aton of my past ideas, all the posts ideas are made beforehand and u can see for yourself how it played out.
+
+aton of posts here just post p&l, zero idea. zero plan. while mine laid out before it played out. Tradingview ideas cannot be tampered or deleted after 15 minutes, thats why alot people who scared of accountability or have no proof for their edge avoid posting, or post so much bullcrap to hide
+
+dont worry, I am setting up live stream with “never delete VOD” soon as well :)"
+Forex,oanda,USD/CAD good short trade after tariffs?,,https://www.reddit.com/gallery/1ig406q,https://www.reddit.com/r/Forex/comments/1ig406q/usdcad_good_short_trade_after_tariffs/,30,24,2025-02-02 18:33:48,realjbj,"This didn’t age well
+
+You must be a predictor…. Never try to predict always react
+
+If you want to be a profitable trader respect market trends and stop forcing your entries . There are so many pairs you can look at . Analyze all of them and pick your best . Wait for the entry to get close to your zone even if you have to wait days . Once it gets there you take action and make the best out of that pair . Forcing trades will never take you far . There’s nothing bearish about your analysis and the pair . Please review again so you don’t make rash decisions.
+
+i went to google the usd/cad exchange rate and it showed it went to 1.47
+
+US dollar will get stronger = usd/cad is a long trade for the time being."
+Forex,oanda,Problems with insufficient margin,"I mostly trade GBP/USD on TradingView and I use Oanda as my broker, but often times when I try to risk 2-3% of my account, it doesn’t let me. I have a small account of around $500, and my trades only get approved if I risk around 1% of my account. Can someone explain to me what I’m missing?",https://www.reddit.com/r/Forex/comments/1ifpfhf/problems_with_insufficient_margin/,https://www.reddit.com/r/Forex/comments/1ifpfhf/problems_with_insufficient_margin/,5,5,2025-02-02 04:41:48,Astreum98,"Margin requirements come from two things:
+
+(1) the leverage of the pair
+
+(2) the size of your trade (in units/lots)
+
+For (1), GBPUSD’s leverage is 20:1, one of the lowest leverages offered, meaning the margin requirements are higher for this pair.
+
+For (2), the lower the timeframe you trade on, the less pips you’re typically risking. This means you need *more* size to get the same risk, which increases the margin requirements further.
+
+So, there are a number of things you can do. You can either:
+
+-be okay with risking less than you want
+
+-add more money to your account to cover the margin required
+
+-trade a different pair with a higher leverage, for example a 50:1 pair like EURUSD or USDCAD
+
+-move up a timeframe or two (like if you’re trading on the 1min, try the 5min, etc) and/or widen your SL to risk more pips and thus reduce your trade size, lowering the margin required
+
+1. there's nothing wrong with a small account balance. You just need to understand that returns, while using sustainable risk practices... won't be significant.
+2. You need to learn how leverage works in the markets.
+
+Your forex broker offers a leverage of (likely) 1:50 or 1:100...
+
+Now when does that come in to play? when you're trading small stop loss values... 3..4..5 pips. Why? because to risk 1..2 or idk 3 % of your capital over 5 pips, that requires an unusually large LOT size for your account size...
+
+while if you're risking the same % of capital but over 30pips, that size is MUCH smaller.
+
+So if you're really going for opening ""large positions"" with tight stops, just go for a higher leverage account.. 1:500 or something close to that spectre will do.
+
+Do i think you should? Deffinitely not.
+
+probably you dont have enough leverage.
+
+You can trade a little more with eurusd but those rules are good for you. Don’t really want to be risking so much
+
+What you're missing is called Risk Management"
+Forex,oanda,Why manual composite can give u higher winrate,"Hi
+
+https://preview.redd.it/p1k1040t4fge1.png?width=1848&format=png&auto=webp&s=e35d3e2b402232d164df5213609ca3f7ea4c55fe
+
+a manual composite gives you additional confluence to your trades, thereby boosting your winrate
+
+mix into a matrix that can provide leading indication of bull/bear trend
+
+Here is one of my backtested matrix:  
+
+
+https://preview.redd.it/4f4lob4f5fge1.png?width=1669&format=png&auto=webp&s=896b5c77bc1f59fb096d3249c15079add81e013c
+
+
+
+https://preview.redd.it/m1cp3bt05fge1.png?width=1765&format=png&auto=webp&s=79c88779164f67ee13db8dca6274588760582808
+
+  
+Matrix shown weakness
+
+https://preview.redd.it/8rw1jwc15fge1.png?width=1762&format=png&auto=webp&s=3516e677a1751507bab3b38781b5af50c7e6fcb3
+
+Matrix shown weakness suggest pullback for buyers. Shorters to prosper
+
+https://preview.redd.it/s1sszk985fge1.png?width=1670&format=png&auto=webp&s=6a591f9e919c3bd474d1df6e711a36aa8598a480
+
+Matrix uncover additional buy confluence/opportunities
+
+https://preview.redd.it/r9zhlks85fge1.png?width=1765&format=png&auto=webp&s=360de9eb514ed04acdc61cbeb6962ce9593da1c0
+
+  
+Matrix uncover additional buy confluence/opportunities
+
+  
+
+
+https://preview.redd.it/3aqroluj5fge1.png?width=1666&format=png&auto=webp&s=2c3c31a23f1f745e4bcf0df38251969d675cf0cc
+
+Underlying consistent higher lows while gold flatlined suggest bull trend.
+
+  
+Whole matrix crashed and broke down /broke up suggest great swing short/swing long setups
+
+Breakout retest suggested buy signals
+
+Leading pullback signal suggested today's ATH peak and pullback
+
+https://preview.redd.it/m38oihnt5fge1.png?width=1760&format=png&auto=webp&s=111907514705a8ad3af5a00af4c988c5a5e9aaae
+
+Let me know if you like this :)
+
+Wish you great trading ahead for 2025!
+
+",https://www.reddit.com/r/Forex/comments/1iethis/why_manual_composite_can_give_u_higher_winrate/,https://www.reddit.com/r/Forex/comments/1iethis/why_manual_composite_can_give_u_higher_winrate/,3,0,2025-02-01 00:09:26,truz26,
+Forex,oanda,Lmao sucks,,https://i.redd.it/2h5fg3lfe4ge1.png,https://www.reddit.com/r/Forex/comments/1idld0s/lmao_sucks/,5,35,2025-01-30 11:58:15,_octavia-,"To everyone saying ""break even"":
+
+NO!!!! NO NO NO AND NO!
+
+If his data doesn't support that action as part of the execution process of a trade, he simply won't do it. period.
+
+Just because you THINK that puting a trade to break even is OK, doesn't mean that it mathematically makes sense.
+
+Sure, in some systems it does. In others, it doesn't.
+
+The trend is your friend, should’ve been going with the trend but I do see the counter trend setup you took.
+
+Entry was good but TP just too high. Are you telling me you didn’t see that resistance or wasn’t even thinking about cashing in at least partial profits?
+
+I agree, stop loss to breakeven as soon as logically possible in my opinion. Looks like was up 2r or so surely stops goes to break even or partials are took 
+
+Especially in this case, ej was trending down
+
+Take 50% of profits at 1:1RR price level and then move SL to B.E.?
+
+Just like Relevant Owl was saying lol /s"
+Forex,oanda,Fundamentals is so great. When along with TA its the best setup,,https://www.reddit.com/gallery/1idgvrb,https://www.reddit.com/r/Forex/comments/1idgvrb/fundamentals_is_so_great_when_along_with_ta_its/,6,4,2025-01-30 06:42:25,truz26,"Nice trade, but remember you got lucky with this trade. Easily could’ve gone the other direction on that news candle.
+
+100% not fool proof.
+
+but the probability is with me on this one based on my modeling.
+
+Just risk small so if I am wrong it won’t affect me at all"
+Forex,oanda,Update on second trade for day 3,"Im going to be completely transparent and let people criticise me, first off i set my sell stop and i added a second one as a partial just to take profit in the middle, my lower tp hit then i chsnge my sl to breakeven and it hit breakeven, after that i was kind of angry that i left my sl at break even when i knew i shouldnt have and i spammed sells and closed them all when they hit profit.",https://www.reddit.com/gallery/1icwnf9,https://www.reddit.com/r/Forex/comments/1icwnf9/update_on_second_trade_for_day_3/,1,4,2025-01-29 15:41:34,More-Courage-5511,"Dont enter when price is already going down like that. You will get absolutely demolished in the long run. Learn about AOI and entry signals.
+
+my strategy involves quite literally entering when price is going down like that
+
+Can you explain your strategy if i mind asking?
+
+I use 15 min time frame, London session in the morning i let it go for 2 hours and then i set a vertical line ar start of london and the 2 hours, i mark high’s and low’s and set a sell and buy stop at the high’s and lows. I do the same wirh new york session"
+Forex,oanda,Day 3 documenting my trades,"Pretty bad analysis on my part, usually dont get anywhere during london session.Either way going to go into my second and last trade of the day at 3pm for NY",https://i.redd.it/0d5hq88l2yfe1.jpeg,https://www.reddit.com/r/Forex/comments/1icv7gd/day_3_documenting_my_trades/,0,0,2025-01-29 14:38:37,More-Courage-5511,
+Forex,oanda,Help needed to understand the quantity settings on TradingView platform,"I have been struggling with trading in many areas but I can’t seem to understand how the quantity setup on TradingView works.
+On the picture it shows I bought 32 ,is it a lot size?
+On other devices lot sizes are 1.0 or 0.05 etc
+ On the picture it says risk $750 get $1304.9 RR 1.22 using the long and short tool but when I entered the trade it showed i would be losing $132.03 to get $266.94 on 32 quantity 
+
+Can someone please help me explain how to this works and which quantity is appropriate?
+And how to use the long and short tool measurement?",https://i.redd.it/00swglwaxwfe1.jpeg,https://www.reddit.com/r/Forex/comments/1icr3bo/help_needed_to_understand_the_quantity_settings/,0,0,2025-01-29 10:47:13,Available-Cloud8955,
+Forex,oanda,Thoughts on my trading ideas strategy & placement of limit orders,,https://www.reddit.com/gallery/1ic3jy2,https://www.reddit.com/r/Forex/comments/1ic3jy2/thoughts_on_my_trading_ideas_strategy_placement/,4,5,2025-01-28 15:05:11,AmbitionNo7629,"[deleted]
+
+You have the right idea. Def drop the BBs. Focus on the daily, I love that you have the patience to see how the daily plays out to gain confidence. I do something similar. I wait for daily sentiment/momentum, and scale down to 1hr. What do you mean by can’t test anything?
+
+I'm not seeing any direction out there on the daily charts, looks like I will wait after the Fridays data.
+
+I'm more of a discretionary trader the idea behind these trades is avoiding this week altogether feels mixed all week but it's hard for me to find confidence bc I can't test anything my idea is to be a fundamental discretionary trader and I want to use daily chart only and fixed stop of 160 pips and large targets 700 800 1200 pips I'm planning to start live trading this year so I need all the feedback I can get.
+
+I'm not sure I have anything to back test being discretionary. I want to flow with the market with my entries and using stop loss fixed at 160 and large tp. My edge would be risk reward my judgement and trading off data & currency strength weakness... That's all I have to work with. Longer term swing trading leaning closer to position trader."
+Forex,oanda,HELP,"Hey hope your all Ohkay I have a question I'm a noob here and I have this running trade on XAUUSD which is a swing.I have a question I'm not that much of a commodities  trader and seeking help from those who are experienced.
+
+I have the following questions 
+
+:Since Trump has gotten into power will gold most likely keep pushing higher or what
+:What underlying news fundementals must I look out for which might cause price to start reversing(or push price down or will it continues going up)idk
+
+",https://i.redd.it/fmugo4ksgqfe1.jpeg,https://www.reddit.com/r/Forex/comments/1ic12jl/help/,7,10,2025-01-28 13:04:02,Lqdour,"Look out for dollar index as gold and dollar are inversely proportional, i.e if dxy rises xau falls and vice versa.
+Check on bloomberg for any kind of news that affected dollar’s value. Keep an eye on fed interest rates, nfp , inflation and CPI
+
+No they’re not the correlation is non existent now lol.
+
+OP look out for tariff news, and upcoming FOMC and what daddy J is going to say about the whole situation, any hints about further rate cuts/hikes or no cuts at all.
+
+Ohkay thanks I appreciate it
+
+Hahaha just because you think that Trumps victory will change how dollar and gold work will. Its basic fundamentals for gold that it is treated as a safe haven, so no matter who the president of USA will be Gold will always be inversely proportional to US dollar. And for non existent is just that is how market dynamic are. To understand proper inverse relation look at 1d and 4h charts .
+
+Nothing to do with Trump my friend, just basic PA. Correlation attest with dxy-xau is barely there anymore, hasn’t been there since last year."
+Forex,oanda,Beautiful setup,After thinking I screwed up and entering the marke late because I woke up late trusted the setup and even could’ve went lower but because I woke up late I decided to go for a 1 to 2 and worked out perfectly ,https://www.reddit.com/gallery/1ibbco5,https://www.reddit.com/r/Forex/comments/1ibbco5/beautiful_setup/,36,2,2025-01-27 15:13:56,Suspicious_Word1110,
+Forex,oanda,"Gold long,  held this since atleast 2 weeks",,https://www.reddit.com/gallery/1iaqwin,https://www.reddit.com/r/Forex/comments/1iaqwin/gold_long_held_this_since_atleast_2_weeks/,43,10,2025-01-26 21:25:11,Qiaowo,"How much swap fee
+
+Damn
+
+Nicotinelol
+
+not that much tbh
+
+edit: 0.004% per lot per day of my capital
+
+ergo 0.004% of 500€ = 0.02€ which isnt alot but i held it for a while
+
+thanks"
+Forex,oanda,Am in big profit thus far none wil believe but gold wil sell,Market take liquid now its time for selling off,https://i.redd.it/a2xdmmqh9xee1.jpeg,https://www.reddit.com/r/Forex/comments/1i8srji/am_in_big_profit_thus_far_none_wil_believe_but/,4,51,2025-01-24 10:51:25,Local_Car_116,"[deleted]
+
+Yeah, it will sell sometime in the future. But nobody knows when or how much will it drop.
+
+One thing I know for sure - there is no way gold is going to your marked area of 1000usd per OZ. Inflation is one of the simplest reasons.
+
+“Order Breaker Resistance Support Block” 
+
+“Market Man will take this remaining liquidity”
+
+“Market Structure Invasion”
+
+Dudes fucking Merlin 🤣
+
+Technical analysis doesn't work on gold on a 1 month chart with a prediction for gold to fall from 2774 to 1044 big dog
+
+I don't think gold will falls below 2400 again"
+Forex,oanda,Anyone else jump in this one on EURUSD,,https://i.redd.it/qw8km5nqkqee1.png,https://www.reddit.com/r/Forex/comments/1i824ay/anyone_else_jump_in_this_one_on_eurusd/,13,2,2025-01-23 12:22:11,XaveTheGod,"I have same trade, same entry, i cant post photos unfortunately. but my target was the imbalance, i see u covered it all
+
+nicely done (:"
+Forex,oanda,Help me out,Am i right of drowning highs and lows liquidity ? ,https://www.reddit.com/gallery/1i7nv1d,https://www.reddit.com/r/Forex/comments/1i7nv1d/help_me_out/,8,12,2025-01-22 22:25:44,flame4reall,"Better draw on liquidity would be; Previous daily low and high, weekly low and high, and sessions low and high. 
+Btw what software or platform is that you’re using for Backtesting?
+
+[deleted]
+
+Draw liquidity zones from the daily/4hr/1hr/30/15min. In that order and then see which ones have confluence (match), then wait for price to get close or enter in those zones and look for a reversal candle, then set your tp to the nearest liquidity zone and sl below/above the liquidity zone you placed your trade. Once you get comfortable trading this way you can open multiple positions letting one of them ride to second nearest liquidity zone.
+
+If you can tell total investment of yours and the running loss we can help.
+
+Asking the wrong questions 🙃"
+Forex,oanda,Anyone else In this on GJ?,,https://i.redd.it/zuchln8oe4ee1.png,https://www.reddit.com/r/Forex/comments/1i5mqnv/anyone_else_in_this_on_gj/,0,6,2025-01-20 09:49:01,XaveTheGod,"Wtf just happened, moved up 100pips in one candle
+
+I am in GJ...but long now. I went short until friday.
+
+I can’t see any news, really strange but glad I got out (:
+
+Interesting, why long? My bias for this week is to keep moving down.
+
+Apparently, there's news about trump reevaluating trading with China, Canada, Mexico and some other countries. https://www.forexfactory.com/news/1323369-trump-memo-to-call-for-evaluating-trade-relationships"
+Forex,oanda,"XAUUSD, sometimes it's just so obvious how support and resistance works",,https://www.reddit.com/gallery/1i2qhjz,https://www.reddit.com/r/Forex/comments/1i2qhjz/xauusd_sometimes_its_just_so_obvious_how_support/,5,16,2025-01-16 14:46:31,dheeraj_verma,"And when it doesn’t, margin calls
+
+[deleted]
+
+Support and resistance is for noobs to donate their money to the market.
+
+I've been profitable trading S/R for 4 years. Literally no-brainer money for me to pay my rent and food.
+
+Sometimes it is and sometimes it isn’t"
+Forex,oanda,What yall think?,This may be a great swing. And i feel like 2025 is set to be my first properly profitable year,https://i.redd.it/ua0ttq7xnpce1.jpeg,https://www.reddit.com/r/Forex/comments/1i08i3m/what_yall_think/,9,7,2025-01-13 07:09:45,Every_Marketing_4732,"Ask your trading plan. How can you expect someone to share an opinion about something they aren't familiar with?
+
+Im not sure what you're trying to achieve so i can't tell you my opinion. My opinion is worthless here. And so is everybody elses.
+
+if ur gonna swing, then ur gonna need the fundamentals to back it up
+
+True but atleast the pair is not Usd
+
+Why?
+
+Once a decade or so I’m wrong, but I think they mean that after a move downwards, price action is finding a channel to range in, and some fundamental driver, report, news, event, etc. is needed to push the expected movement further downward for a swing trade.  Just speculating."
+Forex,oanda,Current trade in ultimate gold sell off ,The ult,https://i.redd.it/jbssxblw1lce1.jpeg,https://www.reddit.com/r/Forex/comments/1hzpajn/current_trade_in_ultimate_gold_sell_off/,0,38,2025-01-12 15:39:13,Local_Car_116,"Gold is mostly macroeconomy-dependent, it wont lose 1/2 value just because your chart thinks so, very unrealistic. If this hits tp this year, i will personaly visit you and give you oily massage with happy ending
+
+Why the fuck u tag Fundamental Analysis LMAO
+
+That's definitely NOT fundamental analysis as it is being tagged
+
+LOL
+
+[removed]"
+Forex,oanda,For next week. ,"Xau/usd , just my analysis, let us what tf will happen. 
+Any suggestions, advice? ",https://i.redd.it/xmitqbwx2cce1.jpeg,https://www.reddit.com/r/Forex/comments/1hysdpw/for_next_week/,3,3,2025-01-11 09:29:02,deenesh_12,i think more lower :3
+Forex,oanda,Thoughts? Today's news is also expected to be bad for cad. therefore more confidence,,https://i.redd.it/mdwd5xaw54ce1.jpeg,https://www.reddit.com/r/Forex/comments/1hxymgz/thoughts_todays_news_is_also_expected_to_be_bad/,1,4,2025-01-10 06:51:18,Royal_Plane2960,"All depends on NFP, not on CAD news that comes out at the same time.
+
+Overall I would not short this pair using higher time frames.
+
+Yeah i suppose nfp is way more important. But anyways i took the trade and it's currently going towards my direction"
+Forex,oanda,Getting off the 1 minute chart,"Seeking advice!
+
+I’ve been trading the 1 minute EUR/JPY chart for around 6 months with a $200 Oanda account, never allowing more than a $2 loss.
+
+Unfortunately, as a substitute teacher in California, I’m restricted to scalping during the Tokyo session.
+
+I’d like to begin transitioning into higher time frames, but don’t feel I know how. 
+
+I’d rather make 1 or two trades a day, check in on them once or twice, and not be trapped in the scalping headspace.
+
+How should I begin working up?",https://www.reddit.com/r/Forex/comments/1hxhpva/getting_off_the_1_minute_chart/,https://www.reddit.com/r/Forex/comments/1hxhpva/getting_off_the_1_minute_chart/,0,21,2025-01-09 17:12:33,Pipesandboners,"Might be quite the change, and obviously you can stick to day trading if it works better for you but you could also consider swing trading. 
+
+I used to day trade the 5min chart, but a little over a year ago I transitioned to swing trading. I do my analysis on the daily and execute on the 4hr. Took some getting used to for sure, and I changed my strategy (not always required) to one better suited to passive trading. 
+
+Now I do all my analysis and set alerts near my setups from my PC on the weekend. Once price hits an alert throughout the week, I’ll check it on my phone (from wherever I am). 
+
+If I like it, I’ll set a pending order (limit or stop order depending on the situation) and so then if price truly reaches my setup, it’ll get me in automatically without me being on the chart. Then I’ll set alerts to let me know when the trade reaches certain points so I don’t have to keep checking it.
+
+This makes it so that I only spend up to 2-3 hours total per *week* on trading related stuff, including weekend analysis and journaling (which takes the most time). And my schedule is very flexible. Before, I spent 2-3 hours per *day* on trading, and had to be actively on the chart at the same time everyday.
+
+I was a similar way, I work 9-5 so it made trading really difficult without being by my phone/laptop all day to monitor. 
+
+I would still trade in the Asian if that’s working for you, but look for setups on the 4h or 1h with the strategy you’re currently using and see how it works on a demo. Might need some tweaking for the higher time frame, just backtest and see what happens. 
+
+That’s the same reason I learned to code and just wrote my strategies as an algo, so I don’t ever have to touch my laptop (which is nice 🤣). 
+
+Good luck!
+
+1. Making 1 or 2 traders per day is not going to align with your ""check once or twice"" idea... Just to enter that, you'll need to invest A LOT of screen time.  A setup is there, when it gets there.. Not when you want it to get there.
+
+2. Living in california can be pretty expensive, no? So let's say one can consistently make 10-20 % gain per annum (realistic goals)....  you'd need what? 500k in capital at least, just to live a decent life, rigt? Just something to think about for the future
+
+Google no nonsense forex. That strategy is exactly what you are describing. He has a you tube channel that goes over the strategy in extreme detail.
+
+Aside from looking for new strategies/setups, one thing you might have difficulty in is how much you can risk. At higher timeframes, the possible drawdown is much higher than at lower timeframes. You will probably need to decrease your lot size significantly. On the flip side, you're also aiming for increased pip gains. Just to give an idea, it's like halving your lot size, but doubling your TP, works out to be about the same, but usually with swing trades you aim for a bit higher.
+
+This means that, at least in the beginning, it's quite possible that one swing trade is earning you a bit over one of your current scalp trades. You will eventually aim for higher returns as you get a better feel for the market, so don't let this discourage you.
+
+The other thing you should take into account are swap fees. These either work for you or against you, but they are definitely something you should be considerate of if your starting capital is small."
+Forex,oanda,how does this trade look?,,https://i.redd.it/d4h7urhtetbe1.png,https://www.reddit.com/r/Forex/comments/1hwrh6a/how_does_this_trade_look/,4,16,2025-01-08 18:42:00,BattIeBoss,"Like a gamble, you may have better luck with an entry near the previous low
+
+youre not going against trend??
+
+Fomc dropping in 3 minutes bro idk about this one
+
+The market is bearish and currently going in a down trend
+
+Backwards"
+Forex,oanda,Do people still use MT4 ,"Thinking about switching to mt4 so I can use oanda, but was wondering if that is still even tradable?",https://www.reddit.com/r/Forex/comments/1hwbnwj/do_people_still_use_mt4/,https://www.reddit.com/r/Forex/comments/1hwbnwj/do_people_still_use_mt4/,4,23,2025-01-08 04:43:05,mindless223,"As long as i can put an order in.. i don't care if i do it in the McDonalds app..
+
+MT4 here.  I know it’s old, but so am I.
+
+I've been with ohanda for about 20 years and still on mt4.  Actually had a bit of a scare recently when I switched over computers and all I could see to download was mt5 and I have custom indicators. 
+
+.  Sometimes I do place orders off of it but it's not as practical as using the regular interface. 
+
+.
+
+Used to be mt4, then switched to mt5. It’s not particularly pretty but does everything I want.
+
+I use MT4 and MT5. Depending on the broker but most broker outside of the US are still using MT4 or MT5."
+Forex,oanda,Just sharing a beautiful trade I took,"Just sharing as motivation to anyone thinking forex isn't viable for making money or income. Keep grinding and analysing, and understand yourself as a trader, you'll get there eventually! Don't fomo into trades and let the math play out. Have a proper strategy and be disciplined. Also, be cautious with upcoming US transfer of power and news. Here's to an awesome 2025 ahead fellow traders.
+
+Notes: Yes, the amount in relation to account balance seems ridiculous. That's because I choose to use extremely high leverage so I don't need to hold large amounts of cash with the broker. The real amount I'm trading is much larger. Also let that be a note to anyone who thinks u can 2x or 3x your account daily. That won't work and you will blow up, or you will be richer than Elon Musk. Which is more likely xD I won't be answering any question on strategy because I'd like to keep that private, and I won't be responding to PMs on the same. I'm not selling anything and have nothing to prove to anyone.  Cheers <3",https://www.reddit.com/gallery/1hvg7qk,https://www.reddit.com/r/Forex/comments/1hvg7qk/just_sharing_a_beautiful_trade_i_took/,188,43,2025-01-07 01:45:53,burple3,"What made you take the trade there
+
+Good one homie ...
+
+Can anyone explain this trade to me? I see a double top formation with entry point at 197 for a short. How did he anticipate a reversal?
+
+That was perfect entry and rr
+
+That was a beautiful trade, got in ont he rejection and rode it to the moon 👌 nice one!"
+Forex,oanda,So this is how it went. XAUUSD,"XAUUSD : So this was today's trade. In 1H there was internal structure shift , then i marked elliot waves in it. Marked the selling zones and got 120 pips in my pocket.✅🥳",https://i.redd.it/mbstg689jebe1.jpeg,https://www.reddit.com/r/Forex/comments/1hv39et/so_this_is_how_it_went_xauusd/,7,3,2025-01-06 16:39:53,jayyraja,"Beautifully done
+
+🚀✅"
+Forex,oanda,Usd/Gold ,"What are we thinking for the start of this week ! Are you buy or sell 🤪
+
+Looking very bearish 🐻",https://i.redd.it/svfpao5zn7be1.jpeg,https://www.reddit.com/r/Forex/comments/1huc99d/usdgold/,20,41,2025-01-05 17:33:51,JakeHale2233,"What is this analysis or post about? It either goes up or down😭 like wtf with those SL levels yall r getting consolidated in 30minutes.
+
+I can see a long way in ur journey..
+
+Keep it up👌🏽 love a simple chart
+
+Looks like you are trying to calculate all the probabilities of the trade direction. Keep going. 
+
+All the best🎯
+
+Gold is bearish, All in on sells this week atleast 2593"
+Forex,oanda,WEEKLY ANALYSIS OF XAUUSD.,"XAUUSD price is getting bullish , the level marked is of 1D tf and it is also aligning with 4H  tf which is a strong indication in my stretegy, also fib level 0.3, this makes this zone super supportive for gold. Personally gonna wait for the scenario as marked in the chart above. What's your view on next week for XAUUSD? ",https://i.redd.it/s7b0d27fl4be1.jpeg,https://www.reddit.com/r/Forex/comments/1hu0a8b/weekly_analysis_of_xauusd/,7,15,2025-01-05 07:14:12,jayyraja,"[Daily TimeFrame](https://cdn.discordapp.com/attachments/1324619788441485393/1325389646909280337/image.png?ex=677b9ccc&is=677a4b4c&hm=d4e33c46f6e1792005b0ddaa0ad9eeb01ae1edf25b059499f2459bec05404006&)
+
+gold looks bearish to me bro 😎
+
+yeah, got the same vision, it will retest the 2660 zone.
+
+thanks for your share
+
+In 4H tf brother. 0.3 level in 4H tf...the chart is also of 4H tf..only level is daily time frame.
+
+What the fuck is a turtle soup?"
+Forex,oanda,Can someone please explain why does the EURUSD price keep going up after THREE great news for the dollar? ,"[My trade today, just gonna let it run. But I'm seriously confused. ](https://preview.redd.it/w7kezid52tae1.png?width=1471&format=png&auto=webp&s=4cc717b39aa03e4cf2ab0e05e8333da8a21f8eae)
+
+ISM Manufacturing PMI 1.1 greater than forecasted.   
+ISM Manufacturing Prices 1 greater than forecasted.   
+RICHMOND FED'S BARKIN/OUTLOOK FORUM: SEEMS TO BE 'INCREASED UNDERSTANDING' RATES 'UNLIKELY TO COME DOWN AS SOME MIGHT HAVE HOPED....
+
+What am i missing??",https://www.reddit.com/r/Forex/comments/1hsqoye/can_someone_please_explain_why_does_the_eurusd/,https://www.reddit.com/r/Forex/comments/1hsqoye/can_someone_please_explain_why_does_the_eurusd/,1,8,2025-01-03 16:42:56,Turpasto,"Support levels, and in general the  Euro has taken huge beatings.Check your chart on higher time frames and fins the according support levels.The news werent that strong to push through the hard support levels.
+
+Sometimes you don’t need explanation, because these are markets with big players that move deliberately against what you think. In the long run fundamental is important but in the short run there can be big moves against expectation. Take what the market gives you don’t expect it has so move a particular way.
+
+institutional positioning
+
+Trading the news is inherently flawed because access to information is very limited whereas data that effects the market is almost unlimited.
+
+the pmi rose, however, the euro is still doing far better than the us.
+
+you should check both sides and weight in their profits/wellness index"
+Trading,oanda,Can I really turn $100 into $1000 by learning the trade/ stock market system?," I’m trying to learn how all this and that works, I’m a total beginner and have to clue what I’m look at or doing 
+
+I got forex, oanda, trading view and metatrade 4, which I heard is really good but I’m honestly still confused",https://www.reddit.com/r/Trading/comments/1jwkiup/can_i_really_turn_100_into_1000_by_learning_the/,https://www.reddit.com/r/Trading/comments/1jwkiup/can_i_really_turn_100_into_1000_by_learning_the/,12,163,2025-04-11 07:55:55,PublicInvestment6209,"Yes of course, but understand you can also turn 100$ into 1$. It doesn't only go in one direction.
+
+Sure, it’s pretty easy to turn 1000 into 100
+
+99% of traders don’t make money, don’t start just invest long term or u might regret it
+
+You will not turn 100 into 1000 . You will turn 100 into 0.
+
+Easy. The day before yesterday  I traded. Made 200$ on my 100$ in 10 minutes.
+
+Today I lost them all."
+Trading,oanda,What is my strategy called ?,"https://preview.redd.it/wy6zb1rz8hse1.png?width=1705&format=png&auto=webp&s=aec396a01d35319cd802dfb1292a11cf7522ac93
+
+https://preview.redd.it/w7abtoc09hse1.png?width=1613&format=png&auto=webp&s=c9f1d7a25677b32099b0643f7a1e87b6fc42a320
+
+Hi everyone, I have a winning strategy that works perfectly with me because i didn't look for any model and understood the markets by my own few years ago. I implemented it with some basic concepts and i was wondering if it has a name and if it's something common. Took me years to get it by myself so there's how it works:
+
+\- I trade on XAUUSD  
+\- Overlap between London and NY  
+\- Top down analysis D - H4 - H1 - 30  
+\- looking for 15min entry  
+\- Identifying Support levels / Resistances  
+\- Once i see if its bearish/bullish for the day i wait for a correction then enter long/short  
+\- I use FIBO for TP and SL  
+\- I enter after confirmations like Engulfing candlestick / liquidity sweep / BOS / FVG's and few more
+
+Is there a name for that type of trading ?? I have a lot of traders i know that are asking me how i trade and i never new if it has a name and already exists ( for example someone that says he's trading ICT or whatever)  
+Thanks !",https://www.reddit.com/r/Trading/comments/1jq0kbb/what_is_my_strategy_called/,https://www.reddit.com/r/Trading/comments/1jq0kbb/what_is_my_strategy_called/,8,7,2025-04-02 21:35:28,A_nikka_with_a_durag,"This looks like a newbie/general question that we've covered in our [resources](https://www.reddit.com/r/Trading/wiki/index) - Have a look at the contents listed, it's updated weekly!
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Trading) if you have any questions or concerns.*
+
+If the winning strategy brings in any money, call it whateva u like mate😜
+
+Your strategy is essentially a ""Smart Money Concept (SMC) + Price Action + Fibonacci"" approach, but there isn’t a widely recognized single name for it. As the other comment said, you get the privilege to name it :)
+
+Out of Curiosity, how much have you made SHORTING gold vs LONG this year?  
+
+I mean, are the bulk of your winning trades LONG or SHORT.  
+
+We have been in an insane Gold Rush for a while now, the strategy might be called: A BULL MARKET
+
+I’d call it a reversal strategy."
+Trading,oanda,What I did wrong here,"[Price was in uptrend for quite a bit of time, So I decided to long, when price retested the black bearish candle and give me a reaction in lower time frame, but it reversed after that, I entered in NY session ](https://preview.redd.it/jpoqiiho2cge1.png?width=1563&format=png&auto=webp&s=6a0910ec49371a33c246f43b2dedab05088da93c)
+
+https://preview.redd.it/plxl3nbx2cge1.png?width=1563&format=png&auto=webp&s=4166b41039f3088d1796cf5ea5b990e80e6982ba
+
+
+
+",https://www.reddit.com/r/Trading/comments/1ief502/what_i_did_wrong_here/,https://www.reddit.com/r/Trading/comments/1ief502/what_i_did_wrong_here/,1,4,2025-01-31 13:47:12,Alert-Equivalent4437,"If you zoom out a bit you are in a supply/resistance zone (2-1.99ish from daily TF). On 4h we can see a rising wedge pattern like price. Usually if a bearish pattern forms in a resistance (especially from HTF) we cannot expect continuation but a pullback from here. Also IDK if u use RSI but on 4h it could barely move up anymore while price kept making higher highs. Everything screams for a pullback here. Now I can see it moving back to 1.97 demand area from daily. Id short this if I was trading it
+
+I use market structure and smc, don't use patterns and indicators
+
+Personally I combine everything that works live on charts. There is no secret tools,only combining them will help you. You would be better off combining them all
+
+thanks bro,"
+Trading,oanda,Oanda asking for NI number,Hi all I was just wondering is this safe to do? Isn’t this a step toward identity fraud?,https://www.reddit.com/r/Trading/comments/1idc114/oanda_asking_for_ni_number/,https://www.reddit.com/r/Trading/comments/1idc114/oanda_asking_for_ni_number/,1,2,2025-01-30 02:35:02,PeaWitty5087,"oanda is legit
+
+i plan to deposit a lot of capital with them
+
+they are the broker i use
+
+It’s a step toward ensuring yiu pay your taxes and, I assume, a legal requirement.
+
+Very few institutions use NI number as an identity verifier so stealing your NI number won’t get anyone very far."
+Trading,oanda,"a lot of people talking crap about my recent post regarding wyckoff method, so here you go","https://i.gyazo.com/148f12cc112b999c8143b7968ac06c90.png
+
+this is the method applied to bitcoin on oanda's charts
+
+seeing how this method works has opened my eyes to 1000 different possibilities
+
+i think this is the ""click"" moment that people talk about
+
+the moment in trading when it all ""clicks"" for you and you start profiting left, right, and center",https://www.reddit.com/r/Trading/comments/1ibbhyi/a_lot_of_people_talking_crap_about_my_recent_post/,https://www.reddit.com/r/Trading/comments/1ibbhyi/a_lot_of_people_talking_crap_about_my_recent_post/,2,20,2025-01-27 15:20:11,mahrombubbd,"It (wyckoff) seems way too complex and like your example its easy to fit to a chart in a hidnsight. Or maybe Im just not smart enough.
+
+hindsight is 20/20
+
+No this is not a click moment, wyckoff is great and all, but its not exactly a secret, yet people still cant trade, ...either they know it through its original name 'wyckoff' or as the yt meme method called the 'smc' , in the end it wont magically grant u the ability to trade consistently. Oh boy wait till u find bout elliot waves xd
+
+Okay, so what was your 'click' moment? Do you have any Wyckoff materials to share? I'm also convinced that the combination of volume and price action method is the best way to trade for retail traders (not only on cryptocurrency market where level 2 data is easily available).
+
+I've personally never used it. But I mean if it works I see no reason as to not use it lol."
+Trading,oanda,Has anyone here tried Anchored VWAP?,"I’ve been observing this tool for a few months now, and I’ve noticed that it works incredibly precisely on indices. I’ve attached screenshots from yesterday’s session to provide a visual reference.
+
+I believe that if you align Anchored VWAP with market structure, it can be a highly effective approach. Of course, like any other strategy, it’s not perfect and does fail sometimes. But when it works, it often provides precise and accurate entry points.
+
+I’d like to hear from experts on how I can further refine this approach. I’m also curious to know how others use Anchored VWAP in their strategies.
+
+All positive and negative suggestions are welcome!
+
+https://preview.redd.it/s08ih7u2ahee1.png?width=1576&format=png&auto=webp&s=c95ff60b90bf3065620417a17bae737bf0b09777
+
+https://preview.redd.it/drmyt8u2ahee1.png?width=1516&format=png&auto=webp&s=880abe5cf897eadd43dbb9e94a0ff0e02310d75d
+
+https://preview.redd.it/7pggi8u2ahee1.png?width=1517&format=png&auto=webp&s=7ea70deb304c34f3825021c239d5d37aace0ef64
+
+",https://www.reddit.com/r/Trading/comments/1i73n1w/has_anyone_here_tried_anchored_vwap/,https://www.reddit.com/r/Trading/comments/1i73n1w/has_anyone_here_tried_anchored_vwap/,1,3,2025-01-22 05:05:44,BBRP7999,"I want to partner with you on this AVWAP. I have heard that its a great indicator for trading specially index options. I am in India ... Looking forward to connecting with you again on  this ... also i am looking for index option trading strategy ...Cheers Namit
+
+you can hit me on discord , userid :cookie45345  , send frd req on"
+Trading,oanda,I need advice,"So i took this trade around 6pm est today after i saw how far down it had dropped i figured "" that has to climb up and fill that gap right? no brainer kind of trade"" keep in mind im new to this only been trading for about 2 months. do i hold and wait for it to come back up or close for my biggest loss yet? (i didnt set a stop loss because i thought it would drop a bit and then come back up and i didnt want to get stopped and watch it ride back up without me)
+
+https://preview.redd.it/un08l7l2jsyd1.png?width=1667&format=png&auto=webp&s=fe570cce5003a646a7c788981716e5e87a41d058
+
+Edit: closed trade for a 9% account loss. Lesson learned...",https://www.reddit.com/r/Trading/comments/1gj3c7k/i_need_advice/,https://www.reddit.com/r/Trading/comments/1gj3c7k/i_need_advice/,8,30,2024-11-04 01:50:10,Significant-Ice-1090,"This looks like a newbie/general question that we've covered in our [resources](https://www.reddit.com/r/Trading/wiki/index) - Have a look at the contents listed, it's updated weekly!
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Trading) if you have any questions or concerns.*
+
+Good thing it's only a demo account, right? Nobody would try catching a falling knife with real money after just 2 months experience, right?
+
+Take the loss and learn. It could go back up or it could go much lower. Now you're gambling. Hope isn't a trading strategy. Trust me I've been there.
+
+""i didnt set a stop loss because i thought it would drop a bit and then come back up and i didnt want to get stopped and watch it ride back up without me . ""
+
+Rule 1, Set a predetermined stop loss before you trade.
+
+Rule 2, follow rule 1 .
+
+Rule 3 , follow rule 2.
+
+Rule 4 , follow rule 3.
+
+Please find a mentor"
+Trading,oanda,"Absolute beginner to trading, how does this happen? This is on one minute interval as well","https://preview.redd.it/5pfix8rc72vd1.png?width=1555&format=png&auto=webp&s=d1eff3cf6418e814d47cb70a84801705dddc1604
+
+I literally blinked and looked back and saw the first red bar, looks like a glitch to me but im sure there is a reasonable explanation.",https://www.reddit.com/r/Trading/comments/1g4so6a/absolute_beginner_to_trading_how_does_this_happen/,https://www.reddit.com/r/Trading/comments/1g4so6a/absolute_beginner_to_trading_how_does_this_happen/,9,13,2024-10-16 06:07:00,FrostbiteAlpha,"Forex factory. Look that up and that will tell you everything you need to know about currency pairs and their news. That news candle was a CPI report for the GBP
+
+What Happens in the Background is, nearly all the liquidity is taken out of the markets before News. The whole orderbook is pretty empty. 
+So the price moves pretty free by agressive market Trades.
+You can see that pretty good with visual order book softwares like bookmap.
+
+UK CPI data release.  You need to check for such things every day.
+
+[https://uk.investing.com/economic-calendar/](https://uk.investing.com/economic-calendar/)
+
+You need to look for an economic news calendar
+
+my program exploited this yesterday on STT. Check out that chart!"
+Trading,oanda,xauusd technical chart analysis ,"[xauusd chart technical analysis analysis ](https://preview.redd.it/4uie3uksxisd1.jpg?width=1329&format=pjpg&auto=webp&s=4c12125a4bbeb5c5a1845bdfaf2691cac6391732)
+
+",https://www.reddit.com/r/Trading/comments/1fv55i9/xauusd_technical_chart_analysis/,https://www.reddit.com/r/Trading/comments/1fv55i9/xauusd_technical_chart_analysis/,0,1,2024-10-03 11:10:24,salem_johseb,
+Trading,oanda,Does this setup make any sense?,"Please give your input!
+
+https://preview.redd.it/4yuc8m1a8bsd1.png?width=1793&format=png&auto=webp&s=ff46679bd4f9cead0cddc9a6a094ab46d64706c7
+
+",https://www.reddit.com/r/Trading/comments/1fubxnp/does_this_setup_make_any_sense/,https://www.reddit.com/r/Trading/comments/1fubxnp/does_this_setup_make_any_sense/,4,6,2024-10-02 09:14:40,Afterflix,"I mean, yeah... It could go this way. From a probability standpoint, the price seems to be struggling to recover. Good luck to you in any event!
+
+Please give some details to comment on...
+
+Question doesn't even make sense, never mind the 'setup'...
+
+Poor short term, with potential to recover on long time frames.
+https://wealthbranch.com/leaf/seed/stock/GOLD"
+Trading,oanda,xauusd analysis,"[XAUUSD ANALYSIS 📈- Scenerio 1 : Price may respect trendline resistance and go downward till 2620-2600- Scenario 2 : Price may revert from 2650-2660 zone upto 2620-2630.- Scenerio 3 : After a breakout at 2650-2660 level after retest a new high can be seen !](https://preview.redd.it/7kqrb6zxt4sd1.jpg?width=1280&format=pjpg&auto=webp&s=a5f6c14b04406f096ac18b89d125e9c287fa3044)
+
+",https://www.reddit.com/r/Trading/comments/1ftm17y/xauusd_analysis/,https://www.reddit.com/r/Trading/comments/1ftm17y/xauusd_analysis/,3,2,2024-10-01 11:43:54,salem_johseb,"This looks like a newbie/general question that we've covered in our [resources](https://www.reddit.com/r/Trading/wiki/index) - Have a look at the contents listed, it's updated weekly!
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Trading) if you have any questions or concerns.*"
+Trading,oanda,The interesting world of Japanese FX brokers.,"Hello there!
+
+Well since I live in Japan I thought it might be interesting for some people to learn a bit about how a very particular but fairly big FX market functions for retail traders. First of all here in Japan, you have to choose between the domestic brokers which I'll talk about because they're quite interesting compared to brokers you see around online, and the ""overseas"" broker which are allowed but barely (it's more like tolerated). In fact, many brokers are not available to Japan residents because they don't want to potentially deal with Japanese authorities. The ones that do, (there are like a dozen I think?) are often regulated in Seychelles or Mauritius like XMTrading, ICMarkets Global, HFM etc. So we still have the choice, unlike US traders who are banned everywhere unfortunately. Few foreign brokers try to open up shop domestically. Notable names are Saxo Bank, Forex.com, Oanda and Dukascopy however.  
+Anyway, I want to provide a glimpse into purely Japanese FX brokers because they offer trading conditions that might make your jaw drop, especially on YEN pairs.  
+
+
+So we have big names like GMO, Minna no FX, Rakuten (which is also present in Australia), DMM or even LINE (yes the message application). They actually advertise fairly aggressively. I always hear about DMM FX or CFD in local convenience stores for example. Regulation is pretty tight, however and leverage is low (I think it's max 1:25 on major pairs). Landing on their home page is advertising no commissions whatsoever. OK so you might think that spreads are at least like 0.9 pips right?? Well no. USD/JPY notably is often advertised as having 0.2 pip only! Same (0.2) for the highly exotic MXN/JPY who rose in popularity due to the carry trade, something you'll NEVER find anywhere else... And the carry trade is often highly advertised, ""We have the best swaps!"" they say. This is because they cater to the famous ""Mrs Watanabe"" traders who just carry trade -> https://en.wikipedia.org/wiki/Mrs._Watanabe  
+Also one peculiar thing is that they often do not have Metatrader and rely on their own platforms. Some do advertise Metatrader though or more recently, tradingview.  
+Another curious thing is Minna no FX for example advertising ""BIG lots up to 300 allowed""! Damn, some people must be balling!   Some even have really low spreads on EUR/USD or AUD/USD like 0.3. It's really surprising for a 0 commission account. Who knows, maybe it would be interesting for day trading or even scalping as this would be very very low cost.
+I am not sure if those domestic FX brokers are market makers, STP or ECN. This is not really something they advertise but the fact that they're regulated in Japan make them extremely safe, generally speaking.
+
+There you go, a glimpse into the local FX offering. I'm sure those are trading conditions that aren't found anywhere else tbh.",https://www.reddit.com/r/Trading/comments/1frb30t/the_interesting_world_of_japanese_fx_brokers/,https://www.reddit.com/r/Trading/comments/1frb30t/the_interesting_world_of_japanese_fx_brokers/,7,7,2024-09-28 10:08:41,romjpn,"This looks like a newbie/general question that we've covered in our [resources](https://www.reddit.com/r/Trading/wiki/index) - Have a look at the contents listed, it's updated weekly!
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Trading) if you have any questions or concerns.*
+
+Hi, I don't live in Japan, but just out of curiosity, could you tell me something about the Fintokey prop company? It was born from the Purple Trading broker and after Japan, they are expanding their business in Italy and Eastern Europe. They claim to be very popular in Japan but it is difficult for me to find reviews from Japanese users. Thanks
+
+[removed]
+
+Honestly it's hard for me to say anything because you literally just made me discover them. I can't find anything blatantly bad about them when taking a look at what is said on X from a few Japanese users.  
+Their instant accounts are cool though.
+
+The COVID years were absolutely insane for this strategy, especially MXN/JPY longs but right now the cycle is turning back into JPY strength so it's time to downsize the position or close all of them."
+Trading,oanda,"trading forex: want to start on oanda and use metatrader 4, where do i sign up?","just confused, do i download metatrader from their site first and make my account on there?
+
+or do i have to go through oanda and make an account with them?
+
+i do not want to use oanda desktop to do the trades, would like to use metatrader 4
+
+how do i get started with this?
+
+thanks",https://www.reddit.com/r/Trading/comments/1f3sdve/trading_forex_want_to_start_on_oanda_and_use/,https://www.reddit.com/r/Trading/comments/1f3sdve/trading_forex_want_to_start_on_oanda_and_use/,2,3,2024-08-29 03:07:16,nervomelbye,"I don’t use MetaTrader, but I think you need to create an account with Oanda first. You’ll have two separate sub accounts on your main account, one regular and one MetaTrader, and so I assume from there you can log in on MetaTrader. But of course someone else can chime in if they know more
+
+update: i may just call oanda and ask about this before i get started
+
+unless someone can chime in
+
+thanks
+
+Gotcha, thanks"
+Trading,oanda,Some late night Gold analysis. What you guys think? ,"https://preview.redd.it/jmqok0smpe4d1.png?width=1920&format=png&auto=webp&s=8283cd098190f887a6866aed7297815abb601317
+
+",https://www.reddit.com/r/Trading/comments/1d7cvdf/some_late_night_gold_analysis_what_you_guys_think/,https://www.reddit.com/r/Trading/comments/1d7cvdf/some_late_night_gold_analysis_what_you_guys_think/,3,2,2024-06-03 19:18:30,samy_ro,"I like your ""discount"" and""premium"" labels. I generally just use overbought, oversold. No idea where it's headed."
+Trading,oanda,What Broker Does Everyone Trade With(US),So I’ve tried unregulated ones from hugosway to eaglefx and regulated ones like oanda and forex.com and IG but are there any others that lets you trade more than just forex?less spreads?,https://www.reddit.com/r/Trading/comments/1cmor67/what_broker_does_everyone_trade_withus/,https://www.reddit.com/r/Trading/comments/1cmor67/what_broker_does_everyone_trade_withus/,2,6,2024-05-07 22:30:36,Puzzled-Beginning-83,"This looks like a newbie/general question that we've covered in our [resources](https://www.reddit.com/r/Trading/wiki/index) - Have a look at the contents listed, it's updated weekly!
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Trading) if you have any questions or concerns.*
+
+No, not in the US. Things like gold, oil, indices etc are not allowed on Forex brokers because where you’ve seen them on these brokers they’re CFDs, and CFDs aren’t allowed in the US. Forex brokers here only offer spot Forex trading, ie real Forex trading.
+
+If you want to trade gold, oil, indices, etc then you have to trade futures with a futures broker like AMP, Tradovate, etc. 
+
+Some CFD to futures symbol conversions are: Gold/XAUUSD = GC or MGC, Oil/USOIL = CL or MCL, US100/NAS100 = NQ or MNQ, US500/SPX500 = ES or MES, US30/DJI30 = YM or MYM (M stands for micro, ie the smaller contracts)
+
+https://kot4x.com 
+
+Forex, indices, stocks, metals, oil, gas, cryptos."
+Trading,oanda,Minimizing financing costs trading cfd,"Hi,
+
+My financing costs are through the roof and they are eating away at my profits. 
+
+Trading without leverage would be the way to go, but my broker, oanda, doesn’t allow that.
+
+I’ve been Googling quite a bit, but can’t really find anything useful so I hope Reddit can help me :)
+
+I trade indices btw. 
+
+Thanks in advance.",https://www.reddit.com/r/Trading/comments/18hxj4n/minimizing_financing_costs_trading_cfd/,https://www.reddit.com/r/Trading/comments/18hxj4n/minimizing_financing_costs_trading_cfd/,3,8,2023-12-14 01:55:59,bertjacobsen,"This looks like a newbie/general question that we've covered in our [resources](https://www.reddit.com/r/Trading/wiki/index) - Have a look at the contents listed, it's updated weekly!
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Trading) if you have any questions or concerns.*
+
+If trading index’s, why not use a broker that gives you access to futures and move away from CFD’s and their nuances.
+
+What are your financing costs as a percentage of your profits? 
+
+Generally speaking, I would not think that financing costs/swaps or commissions would significantly 'eat away' the profits of a profitable system with a legitimate edge.
+
+Anyone else? :$
+
+eh. trade futures???"
+Trading,oanda,How do retail Forex broker 'spreads' come into play when I place an order? (Forex),"I understand that the spread is the difference between the current best BID price and the current best ASK price. But I don't understand how retail brokers add their own spreads.  
+
+
+For example, at this moment, Oanda says their spread is 0.8 for AUD/USD. So, considering the following scenario, how much would I pay to Buy a currency pair?  
+
+
+Scenario, AUD/USD:
+
+\- Current BID price: 0.6383  
+\- Current ASK price: 0.6387  
+\- So the spread is: 4  
+
+
+When I Buy 1 lot AUD/USD, what do I pay? Where does the broker's extra 0.8 spread come in?  
+
+
+And what about selling? If I wanted to Sell 1 lot AUD/USD? At what price will I go in?",https://www.reddit.com/r/Trading/comments/171zauh/how_do_retail_forex_broker_spreads_come_into_play/,https://www.reddit.com/r/Trading/comments/171zauh/how_do_retail_forex_broker_spreads_come_into_play/,3,3,2023-10-07 06:28:55,Livid_Relative_1530,"This looks like a newbie/general question that we've covered in our [resources](https://www.reddit.com/r/Trading/wiki/index) - Have a look at the contents listed, it's updated weekly!
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Trading) if you have any questions or concerns.*"
+Trading,oanda,XAUUSD Update," Hello again guys, after XAUUSD made 3 unsuccessful attempts to break the 1904 level, I think that it's time to short this market. Of course my short position from yesterday is already closed at a small plus ! So now here I am looking for some short candlestick like shooting star or engulfing candle.It will also be good if we look at the five-minute chart where we want to see a break of the 1900 level, then a retest. The target of this move is to be the bottom of this range ,namely 1885,and we are likely to make a big wick down ,because there is a lot of news today! I am not a financial advisor ! Good luck!  Stay profitable! 
+
+https://preview.redd.it/lxdwh6wghujb1.png?width=887&format=png&auto=webp&s=070321ecfe790cc8dd053b8d56b41ff165dfb418
+
+https://preview.redd.it/w4drwbgfhujb1.png?width=906&format=png&auto=webp&s=4d3afac4004109d56a78f075e8c661a113f7b7cf",https://www.reddit.com/r/Trading/comments/15z1206/xauusd_update/,https://www.reddit.com/r/Trading/comments/15z1206/xauusd_update/,7,7,2023-08-23 11:25:13,EliteTradingZone,"This looks like a newbie/general question that we've covered in our [resources](https://www.reddit.com/r/Trading/wiki/index) - Have a look at the contents listed, it's updated weekly!
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Trading) if you have any questions or concerns.*
+
+Maybe it's just building up enough juice to break through?
+
+Or maybe the price of the gold doesn't change and the USD does?
+
+the fact that gold is now making a break above 1904 does not mean that it will not go down to 1885 to skim liquidity.As I wrote before around 1900$ I expect manipulation.But so far we have not had a short signal !!!
+
+I don't follow gold so I just checked. It had a wick up a couple hours ago which looks like a failure. But it hasn't broke down yet either.
+
+USD has broke out so far today but the day is not over so it could end at a wick out as well. Needs another day. It does look strong though."
+Trading,oanda,XAUUSD," 
+
+Hello guys, I continue to be sick, but as you know money never sleeps or rests. This is gold 1H timeframe. We broke above the trendline with multiple green candles, but the bulls continue to be weak, unable to overcome the 1904 level. After seeing that the bulls have no intention to make a breakout and a shooting star followed I opened my short position (second picture). Now here the options are two .One is to continue the strong down trend by breaking 1885 and continue to 1870.The second option is to take the stops at the triple bottom below and then start a 4hr retest which will take us to 1955 prices. So far, the market sentiment continues to be bearish!
+
+**Show less**
+
+https://preview.redd.it/bme52wzgaojb1.png?width=887&format=png&auto=webp&s=2efd96d2a2226ba31b56599107cac6119097fcd5
+
+ 
+
+https://preview.redd.it/28ad6njiaojb1.jpg?width=312&format=pjpg&auto=webp&s=42ada60a3210563ca1a8054168a1b31903347aa5",https://www.reddit.com/r/Trading/comments/15y7nnl/xauusd/,https://www.reddit.com/r/Trading/comments/15y7nnl/xauusd/,7,1,2023-08-22 14:35:35,EliteTradingZone,"Seeing this only today, nice analysis, unfortunately I got trapped in some sell’s @1910, waiting for it to drop or I’m screwed."
+Trading,oanda,How do you back test your bot?,"Helly guy, I am new here, I am studying and implement a trading bot. I have a question about how do you back test your bot? This is the basic question but I want focus on these aspects
+
+1. How long should the back test last?
+
+Let say you have a bot that works well when back test since 2021 until now but not good since 2019 or 2020. Is this a good bot? Will we try to build a bot and back test that bot from time T in the past until now with T as long as possible.
+
+2. Do you fixed spread when back test?
+
+Spread will affect price you buy or sell, then how it should be handled when back test your strategy. I should used fixed spread or not while back test my strategy.
+
+3. Can data to back test be used between markets?
+
+For my case, I download data gold price from Oanda and back tests my strategy using python, when I finish, I can only trade on Exness (I don't have account to trade on Oanda for some reasons). If my bot works on Oanda, can I say it will work on Exness too? Can I use Oanda data to calculate the signal for buying, selling in Exness because I only have API to download data from Oanda.
+
+Note: I know all these questions can be answered by trying but it's better to hear from someone who already tried it. Glad to hear from you sharing.",https://www.reddit.com/r/Trading/comments/14ehi4h/how_do_you_back_test_your_bot/,https://www.reddit.com/r/Trading/comments/14ehi4h/how_do_you_back_test_your_bot/,1,5,2023-06-20 17:34:52,AWiselyName,"/r/algoTrading old threads and wiki, 1000s of threads about this
+
+I spent 3 years back testing it on several different exchanges and found that when I started forward testing it, my results were entirely different and not as predictable or profitable as the back tests show.
+
+Since that lesson, I only use forward testing now but on multiple demo accounts so I can aggregate large amounts of data quickly to analyze the process.
+
+I do backtesting on cleo.finance. There are 2 backtesting tools automated and manual. I mostly use automated. You create your bot and backtest it, there are some useful statistics and you can also replay your position history on the chart. Plus you can also include the transaction costs funding fees, commissions, and slippage."
+Trading,oanda,What’s the reason most of you are failures at trading? And why do you keep doing it if you think 90% will never be profitable over time? Let me learn from your mistakes.,"I’m an amateur. I used a demo account for six months, watched hundreds of hours of videos and taken courses. Ive been growing my live account 10-25% a week for a few months simply doing what I’ve been taught and sticking to the rules. 
+
+I trade forex CFD through oanda. 2-5 trades a day. 50:1 leverage. 
+
+I’m waiting for something to change, waiting for failure because there are so many of you that say you’ve been trading for 10 years and you’re  breaking even. 
+
+Why are you loosing? Are you getting greedy? Do you not have risk management plan ? How did you blow up your account? How did you loose so many trades in a row? 
+Did you force trades?",https://www.reddit.com/r/Trading/comments/11icdlg/whats_the_reason_most_of_you_are_failures_at/,https://www.reddit.com/r/Trading/comments/11icdlg/whats_the_reason_most_of_you_are_failures_at/,7,25,2023-03-04 20:32:43,Tommothygun,"I’ve been an amateur for 8 years. There’ve been times when I was doing so well for so long I severely cut my hours or even quit my day job, but then I have a few surprises and/or get greedy and trade on hood instead of signals. The only times I’ve lost a lot of money are times when I got too emotional and ignored all the sense my brain was trying to impress upon me. 
+
+So yeah, got greedy and didn’t stick to rules. We’re emotional beings.
+
+And congratulations on growing your account! It’s a beautiful thing when a plan comes together. If you’re doing well with what works for you, don’t fix what ain’t broken.
+
+It’s all blowing smoke until you trade through a black swan event.
+
+Risk management, FOMO, revenge trading, not sticking to rules. Thats why most fail. There are multiple of strategies that work, people just cant deal with the drawdowns and/or cant deal with the “I’m good at this! I should do MORE!” Thoughts. Get greedy, blow accounts.
+
+The inability to change. Anyone can learn price action and technical analysis (seriously, simple concept you can teach a grade schooler) but fighting the urge to do something you know you shouldn’t is everybody’s struggle. You can’t teach discipline, you can only do it. (If that makes any sense).
+
+Do you have any advice, what book to read or what videos to watch? I am just starting out with trading and want to really know what I'm doing before putting my money onto the line. Thanks in advance!"
+Trading,oanda,GOLD - 2023 Price Targets,"Hello Traders,
+
+Here is my prediction for GOLD and its target levels for 2023.
+
+First off, I believe GOLD will be one of the best performing assets in 2023. With GOLD being a safety play during economic hardship, and the strong possibility of a recession, we should see GOLD outperform the broader market like in past recessions.
+
+So how high will GOLD go in 2023?
+
+GOLD will likely make new All Time Highs in 2023, potentially as early as the end of the 1st quarter. We could potentially see the price of GOLD rise as much as 20% next year.
+
+Keep in mind we will have pullbacks along the way as price hits resistance levels on the way up, with he most significant level being the prior highs at just over $2,000. We could potentially see price initially pullback sharply off the prior highs then consolidate for weeks before breaking out.
+
+How to trade GOLD?
+
+You will want to enter a GOLD position on a pullback into technical support, not when experiencing FOMO after a monster move. Be patient and wait for the right setup to occur. There will be many rejections at resistance on the way up, where price will have to pullback or consolidate before the next move up. These types of scenarios present the best opportunity for a wing trade in GOLD.
+
+Thanks Everyone 
+
+https://preview.redd.it/21t3uqhgy67a1.png?width=1354&format=png&auto=webp&s=7b7cb43839552135a4226713bebe551c9802b277",https://www.reddit.com/r/Trading/comments/zrc7a8/gold_2023_price_targets/,https://www.reddit.com/r/Trading/comments/zrc7a8/gold_2023_price_targets/,12,0,2022-12-21 06:11:06,TraderNate-,
+Trading,oanda,Where to download DXY afterhour candles?,"I need to download DXY hourly since 2015 including afterhours. 
+
+Any format api format will do. Could anyone help?
+
+I tried to download from Oanda but they require API authentication token.",https://www.reddit.com/r/Trading/comments/vosdnm/where_to_download_dxy_afterhour_candles/,https://www.reddit.com/r/Trading/comments/vosdnm/where_to_download_dxy_afterhour_candles/,1,2,2022-07-01 04:52:43,sarged,"Found it on capital com, though afterhours have 3 hours gap. On ice the gap is only 1:45."
+Trading,oanda,Anyone familiar with CFD daily rate for short or long ?,I got few positions LONG  in Oanda ( broker) in US T BOND . On the 22nd of FEB it was posted 1.40%. On the 23th of Feb it's posting -5.40%. Meaning every 100 units I have now to pay instead of receiving. WHen the rate is positive in a long position I get paid when it's negative I get deducted. My question is how this sudden change could happen?,https://www.reddit.com/r/Trading/comments/t1gh8k/anyone_familiar_with_cfd_daily_rate_for_short_or/,https://www.reddit.com/r/Trading/comments/t1gh8k/anyone_familiar_with_cfd_daily_rate_for_short_or/,2,4,2022-02-25 22:32:01,MagicFlyingBird,"This looks like a newbie/general question that we've covered in our [resources](https://www.reddit.com/r/Trading/wiki/index) - Have a look at the contents listed, it's updated weekly!
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/Trading) if you have any questions or concerns.*
+
+[deleted]
+
+Ask your broker on what they are basing the their marging interest rates. It could be Libor for example that changes all the time.
+
+I have trading for the past 9 months it was all good. Until they change the rollover rate within a night. So all my holding position are now paying swap fee. 
+
+My question was is it legal firm them to change from 1.4% to -5.40%. the Fed hasn't changed the interest rate yet. What is the underlying motive ? Uk Russia war ? But how ? It looks like they just roll the dice and switch the rate trapping most traders like now being on the wrong side."
+Trading,oanda,Desktop oanda darkmode,"Hi fellow traders, today i signed to my desktop oanda account and my eyes where obliterated by light mode theme. Is there a way to turn it back into dark mode without using sketchy scripts?",https://www.reddit.com/r/Trading/comments/r72bvj/desktop_oanda_darkmode/,https://www.reddit.com/r/Trading/comments/r72bvj/desktop_oanda_darkmode/,1,2,2021-12-02 07:55:37,godmike2,Appears not.!!..Found a use for my xmas sunglasses.
+Trading,oanda,Which broker would you choose - Oanda or Coinexx?,"I have been trading with Oanda for a long time, but ready to switch to Coinexx that my friend suggested to me. Any special differences that you found?",https://www.reddit.com/r/Trading/comments/q1t60o/which_broker_would_you_choose_oanda_or_coinexx/,https://www.reddit.com/r/Trading/comments/q1t60o/which_broker_would_you_choose_oanda_or_coinexx/,0,2,2021-10-05 09:56:30,Jackaron12,"For forex? Maybe ask in the forex sub
+
+""I am currently using both. Let me give you an overview of both brokers to ease your decision making, I have noticed that on an average Coinexx spreads on EURUSD ranges between 0.0pips -0.2 pips, USDJPY 0.2 – 0.3 pips and GBPJPY 0.3 - 0.5 pips and on an average Oanda spreads on EURUSD ranges between 1.0pips -1.5 pips, USDJPY 1.2 – 1.7 pips and GBPJPY 2.3 - 2.5 pips, I am happy with both the brokers. However I have seen that at the time of  high market volatility, Coinexx spreads are still lower than  Oanda. The spreads offered by both are variable so you can try both the brokers and see which one you prefer.   
+"""
+Trading,oanda,What's the best platform agnostic source of markets data for developers?,"I've researched Oanda, FCXC, and a few other patform's APIs, but where do they get their data from? Is there a 'platform agnostic' source of markets data that's open to the public?",https://www.reddit.com/r/Trading/comments/nv1sj3/whats_the_best_platform_agnostic_source_of/,https://www.reddit.com/r/Trading/comments/nv1sj3/whats_the_best_platform_agnostic_source_of/,1,1,2021-06-08 11:25:33,justajolt,"Maybe try r/algotrading, but I’m not sure there will be a satisfying answer"
+Trading,oanda,5 pips a day compounding calculation,"Hi guys, I just want to see if this makes sense to all of you. I trade Forex on the Oanda platform. I get 50:1 leverage... so if I trade 261days a year with a beginning balance of $3,477 USD x 50 (leverage) making 5 pips each day, I will make... (with out intra day compounding)
+
+1st year - $72 a day off 5 Pips = $18,792 + $3,477 (original balance) = $22,269
+
+2nd year beginning balance $22,269 x 50 leverage = $1,113,450 = $556 (5 pips a day) x 261 days
+
+= $145,116 + $22,269 (previous balance) = $167,385 
+
+3rd year beginning balance of $167,385 x 50 leverage = $8,369,250 = $4,184 (5 pips a day) x 261 days = $1,092,024 + $167,385  (previous balance) = $1,259,409
+
+4th year beginning balance of $1,259,409 x 50 leverage = $62,970,450 = $31,485 (5 pips a day) = $8,217,585.00
+
+&#x200B;
+
+Guys, is this rite????",https://www.reddit.com/r/Trading/comments/n5wmvb/5_pips_a_day_compounding_calculation/,https://www.reddit.com/r/Trading/comments/n5wmvb/5_pips_a_day_compounding_calculation/,2,7,2021-05-06 02:03:54,crossoverinto,"Just use the compounding calculator online, and after you are done daydreaming then begin your trading journey in a serious manner. Only way you’ll fail is if you quit
+
+Do not think about compounding pips. 
+Measure your stop loss and equate that to One percent (or 2 or 5, if you are a cowboy). That will dictate your leverage. On forex, one percent risk per trade will use approx 10 to 1 max leverage on most trades. Do the numbers.
+
+Don't think about days on days. 
+
+Just know, if you can do 3 percent a month, every month for five years and longer (that's 42 a year compounded monthly), you are a Bonafide star.
+
+If you can do 6 percent a month, you are a Legend.
+
+Never listen to morons who think a small acct grows faster. All accts are the same size, when you are talking about less then 25 million.
+
+All the best.
+
+It looks like you’re compounding yearly not daily... also 5 pips on $3,477*50=$86 not $72? Also doesn’t look like you’re factoring in leverage costs unless your 5 pips is net
+
+Edit: also 50x leverage can go really wrong way really quickly
+
+haha thanks
+
+Thanks for all the corrections. Yeah its based off compounding yearly and it would be 5 pips net. I always use a stop. By any chance do you know what the odds are of not getting your order filled?"
+Trading,oanda,FOREX AutoChartist API,"Does anyone have any experience in using the autochartist forecasts
+
+I have the API data i get from Oanda and looking for someone to discuss the data with",https://www.reddit.com/r/Trading/comments/ljtxdq/forex_autochartist_api/,https://www.reddit.com/r/Trading/comments/ljtxdq/forex_autochartist_api/,1,1,2021-02-14 18:20:51,1LuckyPenny,50-50 on a good day.
+Trading,oanda,TRADING XAU/USD GOLD,Where should I open an account to trade gold! Best no commission no fee broker that trades gold. I currently am in OANDA. Should I switch all of my account to the new broker or just trade gold on this broker? Help me make some decisions whos been trading gold for 5+ years and loves their broker,https://www.reddit.com/r/Trading/comments/l8134f/trading_xauusd_gold/,https://www.reddit.com/r/Trading/comments/l8134f/trading_xauusd_gold/,1,0,2021-01-29 19:07:06,Abject_Connection550,
+Trading,oanda,How much time and money have you made in your demo prior to opening your live account ? How much did you fund your live account ?,"I started trading live right away since July (every single day with zero exceptions.  in order to learn faster and experience as much emotions and fear Prior to trading a real account . I lost total of 2,5k but was trading between 200-300$ in the balance (I didn’t have the full 2,5k right away ) with vantage Fx but When I start making progress . They closed my account due to the law with Canada and Australia. I am doing demo now with 3k and I grow it to 4K  in two weeks trading only 2% per trade or less aiming for break and retest and key levels support and resistance . ( I didn’t expect this result reading only for 2% and holding trades trough  the week  ) After reading trading in the zone , I realize I need to focus on my emotions and behaviour when I enter trades and things are going well but I am aiming to accumulate 3k to go live with Islamic account ICM market or Oanda but Oanda is turning me off with their spreads , fees and leverage -_- 
+Let me know what you think , I wrote this to give you guys a perspective.
+Thank you for all your answers in advance.",https://www.reddit.com/r/Trading/comments/k8hguu/how_much_time_and_money_have_you_made_in_your/,https://www.reddit.com/r/Trading/comments/k8hguu/how_much_time_and_money_have_you_made_in_your/,10,9,2020-12-07 14:22:19,Moustachiou,"I lost a lot in live before going back to demo. Nearly a decade later, my live account is up about 900% live trading option spreads and a few futures positions. I’d have lost it all if I didn’t go back to demo for a year and really get my mental discipline in check.
+
+I practiced for a a couple years until I was so efficient I got a 70% return on my account in one month.
+
+I went live immediately. I blew the account. My unfortunate discovery was that I really can’t work on the emotional aspect of trading with a paper account.
+
+Edit: I try to start each account with $1000. Only because that’s about what I can afford to lose. I would risk more if I could.
+
+Where are you getting your ideas from ?
+
+Generally I run my  strategies for 2 weeks on a demo account to see how they perform.
+
+[deleted]"
+Trading,oanda,Help a newbie out?,"Very new to trading here and have been trying my hand at the paper trading feature on tradingview and have been enjoying it so far. 
+
+I was wondering if anybody can suggest any of the brokers that are connected to tradingview and which would be best for trading things like BTC/USD and XRP/USD. I’m unsure on whether that would be considered forex trading, futures trading or options. I’ve tried to look up definitions and I believe trading bitcoin or XRP against the US dollar would be considered forex, is that correct? If that’s the case, would anyone suggest oanda? 
+
+I’ve tried making demo accounts for a few of the brokers but couldn’t figure out for the life of me how to trade BTC/USD or XRP/USD on said demo accounts. 
+
+I would also like to mention that I have no desire to trade actual bitcoin but more like the cash value of bitcoin. 
+
+Any help or suggestions would be greatly appreciated!!",https://www.reddit.com/r/Trading/comments/k0jwcu/help_a_newbie_out/,https://www.reddit.com/r/Trading/comments/k0jwcu/help_a_newbie_out/,6,15,2020-11-25 03:06:44,TryingToMoney,"Honestly if you are ONLY interested in cryptos, check out crypto exchanges like coinbase or bitstamp. 
+
+And also, you can't trade the ""cash value"" of cryptos sorry. Bitcoin futures aren't a thing so you have to trade the asset itself. Crypto exchanges make it easy and intuitive however.
+
+It sounds like you want to trade crypto in the form of forex. I would suggest a forex.com account, and the MT4 platform. This allows BTC and XRP against USD. It does not allow for anything else, other than ethereum though, so if you want a full list of cryptos you are better off going the route of a crypto exchange.
+
+It’s better to trade the cash value of bitcoin, and on a bitcoin exchange like Coinbase. You can earn rewards and it’s a delight to transfer money. Keep the traditional brokers (forex.com, CMC Markets, fxview) for forex trading. And if you want to really excel, concentrate only on 1 pair.
+
+I'm sorry but bitcoin futures are DEFINITELY a thing
+
+Thank you for the broker suggestion! I actually made a forex demo account about a month ago and it was one of the demos that I couldn’t figure out how to trade BTC against USD. Maybe this was because it was *just* a demo account? 
+
+If I do take the route of a crypto exchange, would you happen to know if I am still able to trade the cash value or do I have to actually purchase and trade crypto itself?
+
+Thanks again! :)
+
+EDIT: Just read Mauritsc’ comment below so ignore my second question!!"
+Trading,oanda,Are oanda Fees really that low for SPX500?,"I'm looking at the website and they say they charge no fees. Apparently it's priced in thru spread which is 0.4. So basically i can instantly buy at market and then ASAP sell at market and i will only lose roughly 0.02% if the price hasn't moved? (0.4 from 3000 is roughly 0.02%)  
+
+
+Much cheaper, than say bitmex where maker fee for market orders is 0.05% and 0.025% for taker. Or have i misunderstood the concept?",https://www.reddit.com/r/Trading/comments/d8c2x5/are_oanda_fees_really_that_low_for_spx500/,https://www.reddit.com/r/Trading/comments/d8c2x5/are_oanda_fees_really_that_low_for_spx500/,1,1,2019-09-23 20:05:55,caco3boy,"At a price of \~3000, you are correct, you'll lose roughly 0.02% should the price not move. 
+
+I'm looking at Oanda right now, and it seems the spread is 0.5. That being said, I'm not sure if that's the cheapest way to trade some derivative of the S&P500. For example, if you equate the value to /ES (S&P500 futures), you'll find that in comparison, you're paying the equivalent of 2 ticks (since the spread of /ES is pretty much .25 all the time). 
+
+Is it cheaper than Bitmex? Sure, but I think that's comparing apples to oranges. Is it cheaper to trade the S&P500 on Oanda? I don't think so given the above information : D, hope this helps"
+Trading,oanda,Which CFD broker for forex+indices?,"I'm looking to occasionally make some trades on forex markets. But i would also like to bet on the sp500, and VIX(volatility) would be great too.   
+
+
+Any recommendations, which broker to use. Is OANDA good? What about others like sp500? Basically what i'm intrested is, if you have any recommendations as to which broker to use and which ones to avoid. Also what are the main differences between them&are they big?  
+
+
+I'm eyeing OANDA right now. Is it a good choice or not? You can trade spx500, but can't bet on individual stocks or volatility, but okay...",https://www.reddit.com/r/Trading/comments/cccvgo/which_cfd_broker_for_forexindices/,https://www.reddit.com/r/Trading/comments/cccvgo/which_cfd_broker_for_forexindices/,9,5,2019-07-12 16:12:46,caco3boy,"still looking for recommendations. is oanda alright or not?
+
+Interactive Brokers 4 lyfe. No broke bitches though.
+
+I traded with oanda they screwed me over and i closed the account.
+
+The price will go through my stop loss and it didnt trigger, same with buy stop and sell stop orders.
+There was all kind of shady stuff happening, im happy i left the spot forex and cfd world.
+
+I've had this happen to me on crypto derivatives. It happens if you don't have enough available margin to open a position in another direction. Stop loss has to be reduce-only type, or else if you don't have enough margin to open such position, stop loss will be cancled.
+
+I didnt try to reverse the position, just trying to close it you dont need margin to close a position.
+
+Trading cfd and forex with oanda and interactive brokers was the most frustrating time in my trading carreer.
+
+They will try to screw you over if you are profitable, if you are not profitable they will be happy to have you as a customer."
+Trading,oanda,Questions on analysis apps,"Anyone trades stocks/forex on cmc? Or is oanda kr MT4 better? 
+Also, to analyze charts, do you use trading view or MT4 or does it even matter? Are there benefits to using different apps for entry and analysis?",https://www.reddit.com/r/Trading/comments/adpaaw/questions_on_analysis_apps/,https://www.reddit.com/r/Trading/comments/adpaaw/questions_on_analysis_apps/,3,3,2019-01-08 02:09:31,ngtianle909,"The tools don't matter nearly as much as the way you use them ;) I use trading view I think I do [alright](https://twitter.com/robswc/status/1078163898447077376).
+
+They all pretty much do the same thing, I wouldn't say there's an inherent advantage to any over the other.
+
+Thanks!"
+Trading,oanda,Best broker for trading stock CFDs?,"Been using OANDA for Forex and it's pretty good, but there aren't that many instruments. Anyone know a place which offers stock CFDs, is easy to use, has low minimum deposits and that you've withdrawn from before? I'm especially worried about brokers going stop hunting, lacking transparency and making shoddy excuses like daytrading, lack of verification etc for not returning one's money when one withdraws. Thanks in advance",https://www.reddit.com/r/Trading/comments/9pdgqv/best_broker_for_trading_stock_cfds/,https://www.reddit.com/r/Trading/comments/9pdgqv/best_broker_for_trading_stock_cfds/,2,2,2018-10-18 21:29:01,Wyzzard123,"Etoro seems to work ok. They have a decent virtual account too if you want to get used to the platform. Not sure what their withdrawals are like though 
+
+I've had no negative experiences (... other than losses) with Trading 212 which supposedly exist since 2004. No trouble sending or receiving money. Small positions possible (compared to IG).
+
+NO commission for trading stock CFDs. They had €2 for opening and again for closing, but that was last year. Now it's €0.
+
+And I've had no negative experiences with IG.com which is also quite old, but positions are more heavy-weight. Their selection is greater, but you'll have to live with ~~~~€8 for opening and again for closing a stock CFD position. Indexes and commodities DON'T have this overhead, they are free.
+
+I can recommend both, have pushed in and pulled out thousands of €. (Full disclosure: Overall, I'm a loser.) Both have good web platforms, but IG's is very *very* good, while T212's is kind of a toy, but it works."
+CryptoCurrency,oanda,OANDA Crypto adds 7 new tokens for traders | Crypto,,https://crypto.oanda.com/uk-en/labs/company-news/oanda-crypto-introduces-7-new-tokens/,https://www.reddit.com/r/CryptoCurrency/comments/1j2kuae/oanda_crypto_adds_7_new_tokens_for_traders_crypto/,0,2,2025-03-03 15:13:14,Middle-Feed5118,"tldr; OANDA Crypto has added seven new tokens to its platform, including Shiba Inu (SHIB), Kusama (KSM), Synthetix (SNX), Maker (MKR), Compound (COMP), Optimism (OP), and The Sandbox (SAND). These additions aim to provide traders with more opportunities to diversify their portfolios and explore emerging markets. The platform offers features like round-the-clock trading, robust security, and no deposit fees, catering to both experienced and new traders in the cryptocurrency space.
+
+*This summary is auto generated by a bot and not meant to replace reading the original article. As always, DYOR."
+CryptoCurrency,oanda,Can institutional investors like BlackRock trigger the next big Bitcoin rally?,,https://cointelegraph.com/news/can-institutional-investors-like-blackrock-trigger-the-next-big-bitcoin-rally-qa-with-oanda,https://www.reddit.com/r/CryptoCurrency/comments/1666z0b/can_institutional_investors_like_blackrock/,17,63,2023-08-31 10:06:43,LelxDing,"Why not? ETFs have already started the buzz and I won’t settle for anything less than $100000
+
+Right now the stock market is upwards of $50 trillion while crypto sits at $1 trillion, so they have the money, im ready.
+
+If blackrock cannot trigger a BTC rally I don't know who can.
+
+Having somebody with knowledge of the market to manage these investments more safely should be a great way for those people that are still too afraid to even touch crypto to start investing.
+
+Grandpa BTC will rally when it wants to rally, and not a moment sooner"
+CryptoCurrency,oanda,Regulators Are Trying Turn Crypto Into Forex,"I used to trade forex over 10 years ago. There used to be a lot more brokers in the US. Also a lot of ECN overseas brokers accepted US residents. A lot of people in the US made a lot of money. They decided to crackdown on retail investors and shut down and fine many brokers. Now for the most part Forex trading is dead in the US. All the good ECN brokers are overseas and they all ban US traders because the US government makes it impossible for them to accept people from the US
+
+So in the Land Of The Free we have two major forex brokers Oanda AKA regulated Market Maker and Forex.com. Google Forexpeacearmy and the name of each of those brokers for reviews. Almost all the reviews are negative with major fraud and theft of customer funds. Market makers are huge frauds and their number 1 goal is to steal your money and they will do anything to take it. They literally close your account if your a successful trader. 
+
+It's not about protecting US citizens it's about control and all for them and none for us. It's all about fleasing US traders and taking their money. If you want to play with the big boys you need to be a corrupt banker or someone with power in the government. They want to do the same thing for crypto. They want to steal the technology and use it for evil. They could care less if you lose all your money. They want to control everything and make sure you stay poor so they can stay rich and in power.",https://www.reddit.com/r/CryptoCurrency/comments/12oqz6x/regulators_are_trying_turn_crypto_into_forex/,https://www.reddit.com/r/CryptoCurrency/comments/12oqz6x/regulators_are_trying_turn_crypto_into_forex/,35,41,2023-04-16 22:10:44,Creative310,"Only regulators I like are Warren G and Nate Dogg
+
+I miss the days when the Govt dismissed crypto as pretend Internet money
+
+They’re just trying to figure out how to get their cut even tho crypto cuts out the middle man
+
+>Almost all the reviews are negative with major fraud and theft of customer funds. Market makers are huge frauds and their number 1 goal is to steal your money and they will do anything to take it. They literally close your account if your a successful trader. 
+
+Very close to how things in crypto are, I'd argue
+
+This is exactly what satoshi nakomoto warned us about"
+CryptoCurrency,oanda,How to Blow Your Account | Step-By-Step Guide 💰 to 🪙 for OANDA:EURUSD by VasilyTrader,,https://www.tradingview.com/chart/EURUSD/eatURWkO-How-to-Blow-Your-Account-Step-By-Step-Guide-to/,https://www.reddit.com/r/CryptoCurrency/comments/ynhyqt/how_to_blow_your_account_stepbystep_guide_to_for/,0,26,2022-11-06 05:45:02,DizzyMammoth21,"[deleted]
+
+1. Subscribe to /cc/
+2. Believe the posts in here and take action
+3. Win (guaranteed lose)
+
+u/bad-crypto-advice is better tbh
+
+Buy high and sell low is the only advice you need.
+
+Listen buddy, we're all naturals here with the instincts of apes we don't need this great advice we live it"
+CryptoCurrency,oanda,New York-based forex broker Oanda launches crypto trading services in US,,https://cointelegraph.com/news/new-york-based-forex-broker-oanda-launches-crypto-trading-services-in-the-us,https://www.reddit.com/r/CryptoCurrency/comments/y9zs9q/new_yorkbased_forex_broker_oanda_launches_crypto/,1,6,2022-10-21 17:43:11,adoxxvegas,"Adoption is always welcome.
+
+Oanda is a stable and trustworthy broker. I used to trade forex with them 15 years ago.
+
+Adoption is real, This bear market is surprisingly giving me more hopium than I had in the bull run.
+
+2023 is going to be rough year.
+
+Adoption chart is better than price chart."
+CryptoCurrency,oanda,"Bitcoin Awaits Institutional Demand for Next Leg Higher, Oanda Says",,https://www.coindesk.com/bitcoin-awaits-institutional-demand-for-next-leg-higher,https://www.reddit.com/r/CryptoCurrency/comments/mktkve/bitcoin_awaits_institutional_demand_for_next_leg/,7,5,2021-04-05 20:06:03,Stingzizz,"Hello r/CryptoCurrency readers. Please try out the following links:
+
+* To sort comments by controversial first, [click here](https://www.reddit.com/r/CryptoCurrency/comments/mktkve/bitcoin_awaits_institutional_demand_for_next_leg/?sort=controversial). Doesn't work on mobile.
+
+* To potentially find CryptoWikis articles about the subject of this post, [click here](https://old.reddit.com/r/CryptoWikis/wiki/library). To contribute to CryptoWikis, [click here](https://old.reddit.com/r/CryptoWikis/wiki/recruitment).
+
+---     
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CryptoCurrency) if you have any questions or concerns.*
+
+What’s the significance of the pig?
+
+Theses fucking analyst are a joke
+
+You hear that, institutions?  Bitcoin knows you want some.  Bitcoin wants you to make the first move.   Don't be afraid, Bitcoin will treat you right.
+
+tldr; Bitcoin's intraday rally follows a near 36% rise over the past month as traders look to institutional demand to fuel further upside. A break above $60,000 is not a matter of if, but when, said Edward Moya, senior market analyst at Oanda, a foreign exchange broker. The market is ""in wait-and-see mode, in what seems to be a healthy consolidation,"" said Moya.
+
+*This summary is auto generated by a bot and not meant to replace reading the original article. As always, DYOR.*"
+CryptoCurrency,oanda,(Proof) We have proof that institutions typically do NOT buy crypto during weekends/holidays!,"I have been suspecting for quite a while that institutions typically do **NOT** buy crypto during weekends/holidays.
+
+Usually my comments get downvoted, and people say something like ""surely by now institutions have learnt to buy during weekends"", ""surely they have an intern working on weekends to press the buy button"".
+
+Now we have proof!
+
+>“**This could be an interesting weekend for bitcoin as much of the institutional money is expected to be dormant**,” said **Edward Moya, senior market analyst for the foreign-exchange broker Oanda**. “**Weekend volatility has been somewhat of a story this year**, so many crypto watchers will look to see if any whales try to take advantage of illiquid conditions.”    
+Source: [https://www.coindesk.com/market-wrap-ether-all-time-high-bitcoin-stalls](https://www.coindesk.com/market-wrap-ether-all-time-high-bitcoin-stalls)
+
+Basically, for large institutions, buying crypto is likely not as easy as going to an exchange and pressing the ""buy"" button. Due to the large amount of money involved, there is likely to be multiple legal paperwork that needs to be filed, the big boss needs to approve, etc, all this is best done on a workday, i.e. Monday to Friday.
+
+Even Elon Musk likely needs approval from the board of directors to buy crypto using Tesla's funds. Sure, if he buys using his own money he doesn't need approval, but if he is using company money he does.
+
+# How this information is useful?
+
+This info could be useful because it means that weekend dips are likely due to retail investors selling. It may not mean that institutional money is dumping. Hence, weekend dips are a good opportunity to buy the dip.
+
+(Not financial advice!)",https://www.reddit.com/r/CryptoCurrency/comments/mjxzq5/proof_we_have_proof_that_institutions_typically/,https://www.reddit.com/r/CryptoCurrency/comments/mjxzq5/proof_we_have_proof_that_institutions_typically/,11,23,2021-04-04 15:08:48,ethereum88,"I love how this still basically ended with ""but idk tho""
+
+Although volume might be less lower than weekends most crypto trades are executed by bots. Spikes are often triggered by human FOMO or panic.
+
+I’d imagine companies use bots to buy, honestly. i.e., it buys BTC every several seconds, and more so when the price dips 2%, 3%, etc. This would keep their average buy-in lower, and allow for flexibility on the balance sheet.
+
+You think Goldman sachs is buying banano soon?
+
+It is unlikely that Elon needs to go to the Tesla board for approval of every crypto purchase.  What they would do is authorize purchase of $XX billion (I'm dreaming) and leave it up to the corporate executive (Elon) to determine how and when to make the purchases.  *...so it's easily possible that even entities with oversight requirements are buying on weekends, if that is to their advantage.*"
+CryptoCurrency,oanda,BBC News takes consistently bearish position on cryptocurrencies?,"I post this because I live in the UK and the BBC is without doubt the premier news website. Indeed some data suggests that it has [more traffic than any other news site in the world](https://www.bbc.co.uk/mediacentre/worldnews/2020/worlds-most-visited-news-site)
+
+The BBC also has a special position in UK law as it is bound by a Royal charter which requires it to remain independent and have politically unbiased coverage of the news as a part of its mission to inform, educate, and entertain. It also has unique funding as UK resident TV licence fees contribute to their income.
+
+It always catches my eye when the BBC News website publishes an article about cryptocurrencies. 15 hours ago they published this article.
+
+[Dogecoin takes off after tip by Elon Musk](https://www.bbc.com/news/business-55939854)
+
+Which goes into a lot of detail about the pitfalls of cryptoassets without covering the benefits:
+
+‘However, with no intrinsic value like gold or land, and no ability to generate an income like a company or bond, cryptocurrencies are extremely volatile and can crash as fast as they rise.
+
+This makes them hard to value and makes their prices susceptible to tips from backers or sudden panics.
+
+Critics point out that while any given cryptocurrency may have a finite supply of units, the number of cryptocurrencies is ever-growing and potentially limitless.
+
+People have lost large amounts of money in steep drops in the value of cryptocurrencies and in hacks and corrupted or lost hard drives.
+
+Bitcoin's value dropped by $5,000 on 4 January to about $29,000 before recovering the lost ground. On 11 Jan, it dropped $9,000 to $32,000.
+
+Because the cryptocurrencies can pass international borders quickly and are not regulated like cash or regular investments, investigating thefts is hard.
+
+Last month, the Financial Conduct Authority (FCA) issued a stark warning to investors in so-called cryptoassets.
+
+The financial watchdog said investors should be ""prepared to lose all their money"" should their investment's value collapse.’
+
+Their previous article on the topic had a similarly doom-mongering headline:
+
+[Cryptoasset investing? Be prepared to lose the lot, warns watchdog](https://www.bbc.co.uk/news/business-55615514)
+
+Although the text of the article was more cautionary, warning people of get-rich quick schemes and also potential fraudulent scam activity and I agree this is one aspect of the coverage which is definitely in the public’s interest.
+
+A previous post about [bitcoin reaching its three-year high in November 2020](https://www.bbc.co.uk/news/business-54982604) did mention its scarcity as an upside for investment but again mostly focused on the risks and downsides associated with cryptocurrencies:
+
+‘But Oanda's Mr Moya warned traders to prepare for more volatility.
+
+""The amount of hedge funds and high-frequency trading systems driving Bitcoin higher will likely deliver exaggerated moves once its price nears the $20,000 level,"" he added. ""Traders need to expect $1,000 swings in a matter of minutes.""
+
+Some believe the recent rise in Bitcoin is partly driven by the ""fear of missing out"" (FOMO).
+
+""Its rebound is creating more interest from speculators and so they are jumping in which then pushes it even higher,"" added Mr Oliver.
+
+""I think most people would put more faith in a digital currency run by their government rather than one like Bitcoin that they have trouble understanding or explaining."" ‘
+
+Of course, I understand that they are reporting this in an independent way and they have a duty not to take a position on long term market value, I feel that the positives of decentralisation, transactional transparency, and technological problem-solving which many cryptocurrencies offer are not covered in as much detail as the risks and downsides.
+
+This has the potential end result of delaying mainstream adoption and making the public distrust the cryptocurrency market outright rather than taking a considered and balanced approach.
+
+How do you think these issues can be tackled? I am a general supporter of the BBC’s news coverage but Surely one of the most widely read and trusted news sources in the world shouldn’t institutionally be a harbinger of so much negativity?
+
+Else the general public don’t get a more complete informed view of this ever-developing field...
+
+
+TL:DR - The BBC usually has fair and balanced reporting to properly inform the public. They seem to be consistently reinforcing the negatives with cryptocurrencies with limited reporting of the positives. I believe this is presenting an incomplete view to the public and is risking the public being less well informed. How can this be tackled?",https://www.reddit.com/r/CryptoCurrency/comments/ld2nel/bbc_news_takes_consistently_bearish_position_on/,https://www.reddit.com/r/CryptoCurrency/comments/ld2nel/bbc_news_takes_consistently_bearish_position_on/,36,85,2021-02-05 08:10:32,pippius,"I have a consistently bearish position on the future of bbc
+
+""However, with no intrinsic value like gold or land,""
+
+This is a classic myth and has been answered in multiple FAQ's and papers and here many times.
+
+I feel sorrow for the BBC, for a lot of my life they were a beacon of rationality against a wild and sensationalist British media. 
+
+However over the last 10 years, the Conservatives and right wing media have beaten the impartiality right out of them. 
+
+Cameron and Osborne used to regularly threaten them in public about pulling the license fee if they didn't tow the line, the board has since been stacked with Tory donors, and the new head of is, you guessed it, a massive Tory donor. 
+
+Meanwhile every right leaning media outlet accuses them of extreme left bias, no matter how clear it is that facts show the opposite, and despite grit and determination, they're succumbing to it, moving further and further toward pro Government, pro Conservative opinions. 
+
+They are now, from a news angle anyway, simply an authoritarian state media mouth piece. On other aspects they still produce some great content, but it won't last. Comedy will go, nature documentaries will go, radio is already being slimmed down, cut up, and original content removed in favour of repetition. 
+
+And as always with right wing neoliberal Governments, it's the same path, undermine, de-fund, break apart, privatise.
+
+It is really sad, they were such a fantastic institution Brits could be quietly proud of, but it has been ruined like so so many other things, by pure ideological fantasy. 
+
+Edit: spelling, grammar, sentence structure
+
+I think there's alo an underlying issue with the UK's finalcial regulators (I work im digital banking) as they can be quite hectic in regards to investment news.
+
+Also BBC IS biased, even with the charter, and with their private funding coming kostky from international governments I'd be surprised if they took a pro-crypto sramce at this stage.
+
+Utter lack of understanding the fundamentals. It’s not just a trade-able asset, these blockchain networks have purpose, the value they provide is what you should be assessing, this value generates positive or negative sentiment which affects the demand and with finite supply it affects the price directly. It’s common sense investing but the bbc can’t see that?"
+CryptoCurrency,oanda,Broker comparison of Webull vs OANDA,,https://www.webullreview.co/webull-vs-OANDA/,https://www.reddit.com/r/CryptoCurrency/comments/jgh1b5/broker_comparison_of_webull_vs_oanda/,1,0,2020-10-23 05:33:58,JerryNisbete,
+CryptoCurrency,oanda,"EU Starts Monitoring Cryptocurrency, OANDA Purchased: Best of the Week",,https://www.financemagnates.com/cryptocurrency/news/eu-starts-monitoring-cryptocurrency-oanda-purchased-best-week/,https://www.reddit.com/r/CryptoCurrency/comments/8tgmk3/eu_starts_monitoring_cryptocurrency_oanda/,0,1,2018-06-24 08:55:30,CCNewsBot,seriusly anybody care about that?
+Trading,tiomarkets,New FX firm TIOmarkets is opening its doors for pre-registration on April 1st.,"To celebrate its launch it will be partnering with a deep tech firm, specialist in VR and financial trading. The company is giving away 100,000 free, top of the range headsets to anybody who signs up for pre-registration on April 1st.[https://www.youtube.com/watch?v=2E8ullQJzNg&feature=youtu.be](https://www.youtube.com/watch?v=2E8ullQJzNg&feature=youtu.be)",https://www.reddit.com/r/Trading/comments/b732ul/new_fx_firm_tiomarkets_is_opening_its_doors_for/,https://www.reddit.com/r/Trading/comments/b732ul/new_fx_firm_tiomarkets_is_opening_its_doors_for/,0,0,2019-03-29 21:38:22,Sandrainn,
